@@ -1,0 +1,12 @@
+{
+    "tooltip.bees": "§6%d abeilles",
+    "tooltip.unnamed": "§7- abeille sans nom",
+    "tooltip.honey": "§6%s Miel",
+    "tooltip.name": "§e- %s",
+    "beenfo.config.showpopup": "Afficher la fenêtre pop-up",
+    "beenfo.config.popupxpercent": "Position de la pop-up de gauche à droite",
+    "beenfo.config.popupypercent": "Position de la pop-up de haut en bas",
+    "beenfo.config.tt.showpopup": "Afficher une pop-up lorsque vous regardez une ruche ou un nid",
+    "beenfo.config.tt.popupxpercent": "Sélectionnez la position de la pop-up à l'écran",
+    "beenfo.config.tt.popupypercent": "Sélectionnez la position de la pop-up à l'écran"
+}

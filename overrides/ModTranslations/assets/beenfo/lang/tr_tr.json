@@ -1,0 +1,12 @@
+{
+    "tooltip.bees": "§6%d Arılar",
+    "tooltip.unnamed": "§7- isimsiz arı",
+    "tooltip.honey": "§6%s Bal",
+    "tooltip.name": "§e- %s",
+    "beenfo.config.showpopup": "Imleç açılır kutucuğunu göster",
+    "beenfo.config.popupxpercent": "Açılır kutucuk konumu soldan sağa",
+    "beenfo.config.popupypercent": "Açılır kutucuk konumu yukarıdan aşağıya",
+    "beenfo.config.tt.showpopup": "Bir kovana veya yuvaya bakarken bir açılır kutucuk göster",
+    "beenfo.config.tt.popupxpercent": "Ekrandaki açılır kutucuk konumunu seç",
+    "beenfo.config.tt.popupypercent": "Ekrandaki açılır kutucuk konumunu seç"
+}

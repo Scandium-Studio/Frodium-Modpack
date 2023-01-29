@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "borderOptions": {
+    "checkInterval": 20,
+    "message": "\u0026cYou have reached the edge of this world.",
+    "useActionBar": true,
+    "effect": "2003",
+    "sound": "entity.enderman.teleport",
+    "preventMobSpawns": false,
+    "preventEnderpearl": false,
+    "preventChorusFruit": false,
+    "visualizerEnabled": false,
+    "visualizerRange": 8,
+    "visualizerColor": "20A0FF"
+  },
+  "mapOptions": {
+    "enable": {
+      "dynmap": true,
+      "squaremap": true,
+      "bluemap": true
+    },
+    "label": "World Border",
+    "hideByDefault": false,
+    "color": "FF0000",
+    "weight": 3,
+    "priority": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "generic": {
+    "debug": false,
+    "openConfigGui": {
+      "keys": "X,A"
+    }
+  },
+  "xaerominimap": {
+    "minimapHighlightWaypoint": true,
+    "betterWaypointSharingHandler": true,
+    "directDeleteButton": true
+  },
+  "xaeroworldmap": {
+    "worldMapHighlightWaypoint": true
+  },
+  "configVersion": 1
+}
