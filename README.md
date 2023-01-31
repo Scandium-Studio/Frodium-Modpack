@@ -31,10 +31,10 @@ Frodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的
 |显卡|NVIDIA GeForce RTX 3060|
 |内存|11.9GB|
 
-#### 使用 Frodium 前
+#### 使用 Frodium 前 - FPS: 381!
 ![image](https://user-images.githubusercontent.com/110760354/215751234-d62e6f89-2157-4fa7-817e-1fefa555e9c3.png)
 
-#### 使用 Frodium 后
+#### 使用 Frodium 后 - FPS: 959!
 ![image](https://user-images.githubusercontent.com/110760354/215751933-7f942926-5529-4bfc-abdf-bc701803f92f.png)
 
 ## 💾 如何安装
