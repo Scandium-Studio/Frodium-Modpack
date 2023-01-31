@@ -1,10 +1,10 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "1.19.3 Bugtest",
-  "version": "1.0",
-  "author": "WForst Breeze",
-  "description": "",
+  "name": "Frodium 1.0.1",
+  "version": "1.0.1",
+  "author": "WForst Breeze, Scandium Studios",
+  "description": "\u003cdiv align\u003d\"center\"\u003e\u003cimg src\u003d\"https://github.com/WForst-Breeze/JustARepo/blob/main/head.png\" alt\u003d\"Frodium Post\"/\u003e\u003c/div\u003e\n\u003cdiv align\u003d\"center\"\u003e\u003cimg src\u003d\"https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack\"\u003e\u0026nbsp; \u003cimg src\u003d\"https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color\u003d%23f8e71c\"\u003e\u0026nbsp;\u003cimg src\u003d\"https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color\u003d%237ed321\"\u003e\u003c/div\u003e\n\u003cp\u003e\u003cstrong\u003e[简体中文]\u003c/strong\u003e \u003ca href\u003d\"https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md\"\u003e[English]\u003c/a\u003e\u003c/p\u003e\n\u003ch2\u003e🎬 简介\u003c/h2\u003e\n\u003cp\u003eFrodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听觉上的双重美化。同时为原版 Minecraft 添加许多实用功能及游戏工具包以方便玩家推进游戏进度，您可以通过 Frodium 在您的世界完成一些令人惊叹的伟大成就！\u003c/p\u003e\n\u003ch2\u003e🎉 特色\u003c/h2\u003e\n\u003cblockquote\u003e\n\u003cp\u003e标有 [EX] 的为扩展版独有\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eFrodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的功能：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e全 Masa 支持！\u003c/strong\u003e 使用 \u003cem\u003eTweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica\u003c/em\u003e ，使您对的世界了如指掌！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e全 Carpet 支持！\u003c/strong\u003e 让各种有趣的功能助您一臂之力！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e终极优化！\u003c/strong\u003e Sodium+Iris 加持，与 20+ 优化模组共同优化您的游戏体验！\u003cstrong\u003e🚀FPS+++！🚀\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e聊天举报？No！\u003c/strong\u003e 使用 \u003cem\u003eNoChatReports\u003c/em\u003e 模组，和糟糕的聊天举报机制说拜拜！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e更好的鞘翅！\u003c/strong\u003e 让 \u003cem\u003eElytra Chestplate Swapper\u003c/em\u003e 和 \u003cem\u003eEasy Elytra Take Off\u003c/em\u003e 还您一个良好的飞行体验！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e有地图，但不多！\u003c/strong\u003e 使用 Xaero 的地图系列，默认隐藏了小地图，还您一个干净的游戏界面！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e沉浸式游戏体验！\u003c/strong\u003e 在 \u003cem\u003eSound Physics\u003c/em\u003e、\u003cem\u003ePresence Footsteps\u003c/em\u003e 和 \u003cem\u003eAmbient Sounds\u003c/em\u003e 的加持下，您会获得一个优雅、闲适的游戏画卷！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e嘘~这些你还不知道吧？\u003c/strong\u003e 使用 \u003cem\u003eTips\u003c/em\u003e 模组，在加载画面中学习 Minecraft 的小知识吧！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e一切尽在掌握！\u003c/strong\u003e 多种信息显示模组一起让您度过完美的一天！\u003c/li\u003e\n\u003cli\u003e[EX]（待完善）\u003cstrong\u003eOptifine 功能，一个也不能少！\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e",
   "fileApi": "",
   "url": "",
   "forceUpdate": false,
@@ -778,8 +778,32 @@
       "type": "addon"
     },
     {
-      "path": "itemscroller/villager_data__________________b__.nbt",
-      "hash": "36c7a4c219cbd6534f49f64524b8f39aba2d3bb4",
+      "path": "mods/spare/[元素周期表][钠扩展] sodium-extra-0.4.15+mc1.19.3-build.86.jar.old",
+      "hash": "2c03d6340b3c17c9a0857741fe5bbed40737ac31",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spare/[元素周期表][钠本体] sodium-fabric-mc1.19.3-0.4.6+build.20.jar.old",
+      "hash": "a0fec74517e7719563236be8588f3ca8529411a6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spare/[元素周期表][铟] indium-1.0.10+mc1.19.3.jar.old",
+      "hash": "5a016a84c55a026286b25c8b3686c1acece6ca6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spare/[小柔的地图][世界地图] XaerosWorldMap_1.28.7_Fabric_1.19.3.jar.old",
+      "hash": "634668f28103ccf00b5408348ef03d801afa62c2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/spare/[小柔的地图][小地图] Xaeros_Minimap_22.17.0_Fabric_1.19.3.jar.old",
+      "hash": "b31babc7b84347f6e2234134b43c49fc46865b7c",
       "force": true,
       "type": "addon"
     },
@@ -916,6 +940,36 @@
       "type": "addon"
     },
     {
+      "path": "mods/[Optifine功能][CIT] CITResewn-1.1.3+1.19.3.jar",
+      "hash": "428b61dda06632e803bb99685ba8d2bbcb34a4fb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Optifine功能][动态纹理] animatica-0.5+1.19.jar",
+      "hash": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Optifine功能][自定义GUI] optigui-1.1.6.jar",
+      "hash": "35887bf81b9e1b6296d3955b64f37cd9a65b2785",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Optifine功能][自定义实体模型] cem-0.7.1.jar",
+      "hash": "c99165b56680c6f99b6bef5989070bb6e817adce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Optifine功能][连接纹理] continuity-2.0.2+1.19.3-build.2.jar",
+      "hash": "f0ee7ff6d398047b6d38e31fdbd88a54fb898e2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][DFU载入优化] lazydfu-0.1.3.jar",
       "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
       "force": true,
@@ -1036,20 +1090,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/[元素周期表][钠扩展] sodium-extra-0.4.15+mc1.19.3-build.86.jar.old",
-      "hash": "2c03d6340b3c17c9a0857741fe5bbed40737ac31",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[元素周期表][钠扩展] sodium-extra-0.4.16+mc1.19.3-build.91.jar",
       "hash": "64aef534ebe60ec0b81fffa83053c4db55c4c5c5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[元素周期表][钠本体] sodium-fabric-mc1.19.3-0.4.6+build.20.jar.old",
-      "hash": "a0fec74517e7719563236be8588f3ca8529411a6",
       "force": true,
       "type": "addon"
     },
@@ -1068,12 +1110,6 @@
     {
       "path": "mods/[元素周期表][钠设置] bsvsb-3.0.2.jar",
       "hash": "21d3ec218ec481ab3af437894321de3a438c3673",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[元素周期表][铟] indium-1.0.10+mc1.19.3.jar.old",
-      "hash": "5a016a84c55a026286b25c8b3686c1acece6ca6f",
       "force": true,
       "type": "addon"
     },
@@ -1396,12 +1432,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/[小柔的地图][世界地图] XaerosWorldMap_1.28.7_Fabric_1.19.3.jar.old",
-      "hash": "634668f28103ccf00b5408348ef03d801afa62c2",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[小柔的地图][世界地图] XaerosWorldMap_1.28.8_Fabric_1.19.3.jar",
       "hash": "64dde8d323d7918b66569918b23dfe795afe18f7",
       "force": true,
@@ -1410,12 +1440,6 @@
     {
       "path": "mods/[小柔的地图][增强] xaero-map-addition-0.2.3-beta 43de4a4.jar",
       "hash": "6930a15aa1243dc8827368051194cf210ac40493",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[小柔的地图][小地图] Xaeros_Minimap_22.17.0_Fabric_1.19.3.jar.old",
-      "hash": "b31babc7b84347f6e2234134b43c49fc46865b7c",
       "force": true,
       "type": "addon"
     },
@@ -1438,480 +1462,6 @@
       "type": "addon"
     },
     {
-      "path": "ModTranslations/antighost.timestamp",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/cs_cz.json",
-      "hash": "a0827e3a77bf5cd17f4f04a7a6874bad97025e0e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/de_at.json",
-      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/de_ch.json",
-      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/de_de.json",
-      "hash": "28144419b7f0a47ab21fd5afe26341c224b61c9c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/el_gr.json",
-      "hash": "ab25a314827d151ffbd5abb2d2a37e00b0212cf0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_ar.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_cl.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_ec.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_es.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_mx.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_uy.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/es_ve.json",
-      "hash": "94babd2d2172c010db56ecf6d7be7397b898370b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/et_ee.json",
-      "hash": "983c5f2d91e98f1b713974b756b8f251e04cae48",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/fi_fi.json",
-      "hash": "b1b023c22e583ce9d8e591206afc8aca51d04292",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/fr_ca.json",
-      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/fr_fr.json",
-      "hash": "98b9dc36d78a3732f19d6793007cd0b7439312eb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/he_il.json",
-      "hash": "30253a672b0d557ad7c426a0b1aacf69a7d4f5a4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/hu_hu.json",
-      "hash": "924bcf3ea748115e19928ebeeecf5b3661f4890b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/it_it.json",
-      "hash": "2f76964055a91e485c18b732c82ed427079ec092",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/ja_jp.json",
-      "hash": "73e3a3a189eb18df94c3db144ef4a1ed3366e8f8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/ko_kr.json",
-      "hash": "6051889ccec13a63c4cf0cbe7bb9915a3f57853d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/nl_be.json",
-      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/nl_nl.json",
-      "hash": "71d249ea83e751a30f151d0a4a9fd715d3f0bb95",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/nn_no.json",
-      "hash": "f7c9fec8126bde33ccdc9a427503005989875251",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/no_no.json",
-      "hash": "f7c9fec8126bde33ccdc9a427503005989875251",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/pl_pl.json",
-      "hash": "74c34da253f259cc050b2d4cc553965cb785c72f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/pt_br.json",
-      "hash": "4ab04343708a5ca7725156c245032f8a73dec976",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/pt_pt.json",
-      "hash": "36ab82b09b3a32d34cf61914532e51b22789a841",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/ro_ro.json",
-      "hash": "cef8437a396d65c28788c15d8bf3db367a44a715",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/ru_ru.json",
-      "hash": "0c94d3846c2dd7f0caef9afb8b6be669f58af914",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/sr_sp.json",
-      "hash": "1ce33657e84712c2e9fb64fb442a6ca3274b2c07",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/sv_se.json",
-      "hash": "edda09727eea15eae75ce34004f9f5f1fa69bfeb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/tr_tr.json",
-      "hash": "a530455f33a760c5731289ee1c7361cae8aa0b50",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/uk_ua.json",
-      "hash": "a1d85dda4483a9f3972e928b8f71368c5ee75c39",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/vi_vn.json",
-      "hash": "597bd493202988ca353d655215c651f85ec3850e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/zh_cn.json",
-      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/zh_hk.json",
-      "hash": "dfb7013a3da712a45f821829838cb812d379ed5d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/antighost/lang/zh_tw.json",
-      "hash": "e0c3e7e8b40b91841f3183a7ec8ffa81437e3b64",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/cs_cz.json",
-      "hash": "de7de42e4850da6993c92079a35090a8e438d038",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/de_at.json",
-      "hash": "927f16892ecbf1f5f045443911b94a4daee7e37f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/de_ch.json",
-      "hash": "927f16892ecbf1f5f045443911b94a4daee7e37f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/de_de.json",
-      "hash": "927f16892ecbf1f5f045443911b94a4daee7e37f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/el_gr.json",
-      "hash": "cea47380b7510710bbe87b773e51656df8da4316",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_ar.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_cl.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_ec.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_es.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_mx.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_uy.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/es_ve.json",
-      "hash": "edf7e94c7c2efb502143400b13018f5e4f5327b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/et_ee.json",
-      "hash": "bf82c78d7d671293f8ea0b0bb39dffc589cfcae8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/fi_fi.json",
-      "hash": "04815f679a8f2f77995efb41a2f6a1481fd44dde",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/fr_ca.json",
-      "hash": "39c8b9a7d5af3a895c71640b236a1d3052f35089",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/fr_fr.json",
-      "hash": "39c8b9a7d5af3a895c71640b236a1d3052f35089",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/he_il.json",
-      "hash": "eecbfa6c7a5b1eae7970757c6b82f032c3dcf431",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/hu_hu.json",
-      "hash": "620d826018a23bcd16cd86eaab95c9fb0602365d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/it_it.json",
-      "hash": "8433235d44b84418156a12168f8d5aca936ea09a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/ja_jp.json",
-      "hash": "d1b31b885f3226755d74c29f644cd5f66f8ef80b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/ko_kr.json",
-      "hash": "6e706a9ed453e6797c0638612fe8e5f77d6dcdc2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/nl_be.json",
-      "hash": "cf7a1d405e380874fc0102cf19365c6f40cea42e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/nl_nl.json",
-      "hash": "cf7a1d405e380874fc0102cf19365c6f40cea42e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/nn_no.json",
-      "hash": "a2e43eba60d07936a68ca6c9738057bf22f318f7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/no_no.json",
-      "hash": "a2e43eba60d07936a68ca6c9738057bf22f318f7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/pl_pl.json",
-      "hash": "3ea82d6a131fd0b761534ba0f814dbf6d198e73f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/pt_br.json",
-      "hash": "618847e51580e9662711fc6d8e204b2ec4b8a516",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/pt_pt.json",
-      "hash": "618847e51580e9662711fc6d8e204b2ec4b8a516",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/ro_ro.json",
-      "hash": "e2d5cd60d79dbbad2b400ef41461598e6afc3a56",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/ru_ru.json",
-      "hash": "3e32445766460afe61926b7c6bc52a1c5fffd560",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/sr_sp.json",
-      "hash": "a2e43eba60d07936a68ca6c9738057bf22f318f7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/sv_se.json",
-      "hash": "aa868775fe4659e47fa7a146ca255b6bede994d2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/tr_tr.json",
-      "hash": "608160846b0f9479ee0783dbe76bcbf6fe7ccfc5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/uk_ua.json",
-      "hash": "7f3f68e069087b1bbfdb91498862e043b7d9986e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/zh_cn.json",
-      "hash": "8c2073a46f8df89e5465d5a96ba6685c26d288ab",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/zh_hk.json",
-      "hash": "8c2073a46f8df89e5465d5a96ba6685c26d288ab",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/assets/beenfo/lang/zh_tw.json",
-      "hash": "1fed3e5f5e562dc2faa57e2a3128eda8bd231dcf",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "ModTranslations/beenfo.timestamp",
-      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "not-enough-crashes/mappings-1.19.3.tiny",
-      "hash": "8cf077143fa94078fe7e2d0a6bb2721b18d5ca88",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "not-enough-crashes/yarn-version.txt",
-      "hash": "d10b2da77dc7100bda2d67f9678f38c1acbc1f32",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "options.txt",
       "hash": "f958f776c752aea348891c9c08858bd55a3a82ff",
       "force": true,
@@ -1926,18 +1476,6 @@
     {
       "path": "PCL/Setup.ini",
       "hash": "7e22a99922c9302f41771f053e9b1cf8d14c30e6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Stay_True_1.19.zip",
-      "hash": "fa2bfd3638eb5db9ebec1027984ae1f8d5d41835",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Xray_Ultimate_1.19_v4.2.3.zip",
-      "hash": "eadc93a9e96b9d8c8385c1070fa274f29ca38d4a",
       "force": true,
       "type": "addon"
     }
