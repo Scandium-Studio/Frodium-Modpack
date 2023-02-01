@@ -22,3 +22,19 @@ Based on practicality, Frodium has expanded a large number of functions that enr
 - [EX] **Shh~ You don't know this yet, yeah?** Use the _Tips_ mod to learn a little about Minecraft from the loading screen!
 - [EX] **Everything is under control!** A variety of information display modules work together to make your day perfect!
 - [EX] (To be perfected) **No Optifine, Better than Optifine!**
+## 🎮 DEMO
+|  |Hardware model|
+|--|--|
+|CPU|Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz   3.60 GHz|
+|Graphics|NVIDIA GeForce RTX 3060|
+|RAM|11.9GB|
+
+#### BEFORE - FPS: 381!
+![image](https://user-images.githubusercontent.com/110760354/215751234-d62e6f89-2157-4fa7-817e-1fefa555e9c3.png)
+
+#### AFTER - FPS: 959!
+![image](https://user-images.githubusercontent.com/110760354/215751933-7f942926-5529-4bfc-abdf-bc701803f92f.png)
+
+## 💾 Download
+The modpack is in MCBBS format, so most launchers are supported for installation! Drag the modpack into the launcher's window for automatic installation!
+> eg: **HMCL PCL2 BakaXL MultiMC**
