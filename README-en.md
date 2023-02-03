@@ -1,6 +1,5 @@
 <div align="center"><img src="https://github.com/WForst-Breeze/JustARepo/blob/main/head.png" alt="Frodium Post"/></div>
-
-<div align="center"><img src="https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=flat-square">&nbsp; <img src="https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=flat-square">&nbsp;<img src="https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=flat-square">&nbsp;<img src="https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=inactive&style=flat-square"></div>
+<div align="center"><img src="https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge">&nbsp; <img src="https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge"></div>
 <div align="center">
   
 ### [[简体中文]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README.md) **[English]**
