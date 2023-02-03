@@ -1,9 +1,11 @@
 <div align="center"><img src="https://github.com/WForst-Breeze/JustARepo/blob/main/head.png" alt="Frodium Post"/></div>
 
-<div align="center"><img src="https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack">&nbsp; <img src="https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=%23f8e71c">&nbsp;<img src="https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=%237ed321"></div>
+<div align="center"><img src="https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=flat-square">&nbsp; <img src="https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=flat-square">&nbsp;<img src="https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=flat-square">&nbsp;<img src="https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=inactive&style=flat-square"></div>
+<div align="center">
+  
+### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md)
 
-**[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md)
-
+</div>
 
 ## 🎬 简介
 Frodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听觉上的双重美化。同时为原版 Minecraft 添加许多实用功能及游戏工具包以方便玩家推进游戏进度，您可以通过 Frodium 在您的世界完成一些令人惊叹的伟大成就！
