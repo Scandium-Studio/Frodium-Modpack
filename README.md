@@ -1,5 +1,8 @@
 <div align="center"><img src="https://github.com/WForst-Breeze/JustARepo/blob/main/head.png" alt="Frodium Post"/></div>
-<div align="center"><img src="https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge">&nbsp; <img src="https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge">&nbsp;<img src="https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge"></div>
+<div align="center">
+  
+![image](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge) ![image](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge) ![image](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge) ![image](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge) [![image](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
+</div>
 <div align="center">
   
 ### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md)
@@ -41,3 +44,5 @@ Frodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的
 ## 💾 如何安装
 整合包为 MCBBS 格式，因此支持大部分启动器进行安装！可将整合包拖入启动器窗口自动执行安装操作！
 > 如：**HMCL PCL2 BakaXL MultiMC**
+
+对于扩展版，请直接在 Release 中下载即可；对于基础版，请在文首单击绿色背景的“Lite”后进行下载
