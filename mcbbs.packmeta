@@ -1,14 +1,10 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.0.1",
-  "version": "1.0.1",
+  "name": "Frodium 1.0.2",
+  "version": "1.0.2",
   "author": "WForst Breeze, Scandium Studios",
   "description": "\u003cdiv align\u003d\"center\"\u003e\u003cimg src\u003d\"https://github.com/WForst-Breeze/JustARepo/blob/main/head.png\" alt\u003d\"Frodium Post\"/\u003e\u003c/div\u003e\n\u003cdiv align\u003d\"center\"\u003e\u003cimg src\u003d\"https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack\"\u003e\u0026nbsp; \u003cimg src\u003d\"https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color\u003d%23f8e71c\"\u003e\u0026nbsp;\u003cimg src\u003d\"https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color\u003d%237ed321\"\u003e\u003c/div\u003e\n\u003cp\u003e\u003cstrong\u003e[简体中文]\u003c/strong\u003e \u003ca href\u003d\"https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md\"\u003e[English]\u003c/a\u003e\u003c/p\u003e\n\u003ch2\u003e🎬 简介\u003c/h2\u003e\n\u003cp\u003eFrodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听觉上的双重美化。同时为原版 Minecraft 添加许多实用功能及游戏工具包以方便玩家推进游戏进度，您可以通过 Frodium 在您的世界完成一些令人惊叹的伟大成就！\u003c/p\u003e\n\u003ch2\u003e🎉 特色\u003c/h2\u003e\n\u003cblockquote\u003e\n\u003cp\u003e标有 [EX] 的为扩展版独有\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eFrodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的功能：\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003e全 Masa 支持！\u003c/strong\u003e 使用 \u003cem\u003eTweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica\u003c/em\u003e ，使您对的世界了如指掌！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e全 Carpet 支持！\u003c/strong\u003e 让各种有趣的功能助您一臂之力！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e终极优化！\u003c/strong\u003e Sodium+Iris 加持，与 20+ 优化模组共同优化您的游戏体验！\u003cstrong\u003e🚀FPS+++！🚀\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e聊天举报？No！\u003c/strong\u003e 使用 \u003cem\u003eNoChatReports\u003c/em\u003e 模组，和糟糕的聊天举报机制说拜拜！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e更好的鞘翅！\u003c/strong\u003e 让 \u003cem\u003eElytra Chestplate Swapper\u003c/em\u003e 和 \u003cem\u003eEasy Elytra Take Off\u003c/em\u003e 还您一个良好的飞行体验！\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003e有地图，但不多！\u003c/strong\u003e 使用 Xaero 的地图系列，默认隐藏了小地图，还您一个干净的游戏界面！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e沉浸式游戏体验！\u003c/strong\u003e 在 \u003cem\u003eSound Physics\u003c/em\u003e、\u003cem\u003ePresence Footsteps\u003c/em\u003e 和 \u003cem\u003eAmbient Sounds\u003c/em\u003e 的加持下，您会获得一个优雅、闲适的游戏画卷！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e嘘~这些你还不知道吧？\u003c/strong\u003e 使用 \u003cem\u003eTips\u003c/em\u003e 模组，在加载画面中学习 Minecraft 的小知识吧！\u003c/li\u003e\n\u003cli\u003e[EX] \u003cstrong\u003e一切尽在掌握！\u003c/strong\u003e 多种信息显示模组一起让您度过完美的一天！\u003c/li\u003e\n\u003cli\u003e[EX]（待完善）\u003cstrong\u003eOptifine 功能，一个也不能少！\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e",
-  "name": "Frodium Modpack 1.0.0",
-  "version": "1.0",
-  "author": "WForst Breeze",
-  "description": "",
   "fileApi": "",
   "url": "",
   "forceUpdate": false,
@@ -26,12 +22,6 @@
   "libraries": [],
   "files": [
     {
-      "path": "cherishedworlds-favorites.dat",
-      "hash": "03fe1a4c2bf5d41ec2d1c48f0f2a43128d25f1d4",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "config/advancementinfo.json5",
       "hash": "1bbc4d83d98beefbc7ffb1094e751f45fe483819",
       "force": true,
@@ -46,6 +36,12 @@
     {
       "path": "config/ambientsounds-client.json",
       "hash": "8cb0dc9c2a996a5a424d55c33942ec6c668a6f7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/animatica.properties",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
       "force": true,
       "type": "addon"
     },
@@ -122,6 +118,12 @@
       "type": "addon"
     },
     {
+      "path": "config/cem.conf",
+      "hash": "714fb39c278f9dbffdbdf8f438b2a15e37513f2e",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/chunksfadein.properties",
       "hash": "891357b8378098162939b197ca4da33d82aaabd2",
       "force": true,
@@ -146,6 +148,12 @@
       "type": "addon"
     },
     {
+      "path": "config/citresewn.json",
+      "hash": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/collective/checked.txt",
       "hash": "21628423bee974b2f51eb8bc581e4b840754ec36",
       "force": true,
@@ -154,6 +162,12 @@
     {
       "path": "config/collective-fabric.json5",
       "hash": "01361ea7d970b87227c03ecaf39218519eae28dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/continuity.json",
+      "hash": "dcd61957c3ede67c890235ee6615d0f0945118cd",
       "force": true,
       "type": "addon"
     },
@@ -237,7 +251,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "cf998ccabfd55c9625fb4c264a07be0f3b09405e",
+      "hash": "506572f7569c5cfeeecfffb739078b72f2b90cfa",
       "force": true,
       "type": "addon"
     },
@@ -255,7 +269,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "c46773115cc29602bc9f13936f532af590652dd6",
+      "hash": "e7c19758f8bcb9679a3dfbc21f0aedba98d21817",
       "force": true,
       "type": "addon"
     },
@@ -273,7 +287,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "aa6bd35cae2fd994bf31fd56f5cf689b8354a19b",
+      "hash": "c1e9fd3941b2820cb59948c3734ef6826daa2fd4",
       "force": true,
       "type": "addon"
     },
@@ -291,7 +305,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "124c011ecd04309f81baa4adf14ecefe23c5f82c",
+      "hash": "d6b20fba281808bf03e52fa9c8bb828691ab806c",
       "force": true,
       "type": "addon"
     },
@@ -531,7 +545,7 @@
     },
     {
       "path": "config/peek/peek.properties",
-      "hash": "d38052d454529faa5b03e822729cadd9a3eabbf0",
+      "hash": "4e4502c5747ada77ed108e66f62f37b79bc272df",
       "force": true,
       "type": "addon"
     },
@@ -573,13 +587,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "f0e18a29af8c9a174ff12d9912096626be5632f1",
+      "hash": "ffe24f31da34792cbbdaadda3088456d91c97eb8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "f305806d079eff9d46df52ea8d429e3240c78909",
+      "hash": "9c4a1447b15c3b881b26864da495ff7772654cb1",
       "force": true,
       "type": "addon"
     },
@@ -651,13 +665,13 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "57bb2ca84467adcbcf907422ad62b922c92c5bb3",
+      "hash": "18c167df2d79a2a759b0451eb67c4f9c3deb9bcf",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "3c333c70d4ec3e0ae7fffe7c3a34223da344000d",
+      "hash": "c5e4be9764952dff111bc4b9e4222fec396fd2c4",
       "force": true,
       "type": "addon"
     },
@@ -723,7 +737,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "af70b0eb6a03a1b31f844fe321f8b63a7de248f3",
+      "hash": "91b024db60cbfc8f96163d4f1606af25030a2113",
       "force": true,
       "type": "addon"
     },
@@ -754,18 +768,6 @@
     {
       "path": "config/字幕高亮.json",
       "hash": "f511bde7d23a00e91c3e15ac925a931789a9e911",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "crosshair_config.ccmcfg",
-      "hash": "78c4934aeeb9e5a70afdb4dca9c889900c45b2c2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "crosshair_drawn.ccmpng",
-      "hash": "ec26da9b1cac9ddac26b656cf577c54b9bb2286f",
       "force": true,
       "type": "addon"
     },
@@ -1028,6 +1030,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][星光] starlight-1.1.1+fabric.ae22326.jar",
+      "hash": "de6fe932555604345477db89b59d59249909c640",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][树叶渲染优化] cullleaves-fabric-3.0.2.jar",
       "hash": "7750bc281f80d3769a42e42d94a5a0a055ba3698",
       "force": true,
@@ -1076,7 +1084,7 @@
       "type": "addon"
     },
     {
-      "path": "mods/[元素周期表][磷] phosphor-fabric-mc1.19.x-0.8.1.jar",
+      "path": "mods/[元素周期表][磷][与星光冲突] phosphor-fabric-mc1.19.x-0.8.1.jar",
       "hash": "2dd6f771ba5878d81892b9487f35340e94c87a1c",
       "force": true,
       "type": "addon"
@@ -1232,6 +1240,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][容器搜索] ContainerSearcher-0.1.6+mc1.19.2.jar",
+      "hash": "e6cf524c5f4bc2e91f4ec973899a7aa32141160b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][平滑移动] Smooth Swapping 0.6.1 (1.19.3)-0.6.1.jar",
       "hash": "e27046c943ec441927c3218d921ac63b04ab20ef",
       "force": true,
@@ -1276,6 +1290,12 @@
     {
       "path": "mods/[功能和信息显示][模组菜单] modmenu-5.0.2.jar",
       "hash": "bcc0199aeaa40fabeda867d629a9fca7300056ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][物品模型修复] modelfix-1.10-fabric.jar",
+      "hash": "fd52ec87add371140066fc3ae95d68c83f8a6ee5",
       "force": true,
       "type": "addon"
     },
@@ -1467,7 +1487,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "f958f776c752aea348891c9c08858bd55a3a82ff",
+      "hash": "a905ca76f539d05fceb61760653af8d14cb78245",
       "force": true,
       "type": "addon"
     },
@@ -1479,7 +1499,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "7e22a99922c9302f41771f053e9b1cf8d14c30e6",
+      "hash": "ec000cbfbf308128522357934069ea4c392b30e1",
       "force": true,
       "type": "addon"
     }

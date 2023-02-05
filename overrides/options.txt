@@ -26,6 +26,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
+gamma:0.5
 renderDistance:8
 simulationDistance:5
 entityDistanceScaling:1.0
@@ -37,8 +38,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip"]
-incompatibleResourcePacks:["file/Stay_True_1.19.zip"]
+resourcePacks:["vanilla","fabric"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
 soundDevice:""
