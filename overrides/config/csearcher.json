@@ -1,0 +1,30 @@
+{
+  "ignoreSmallContainers": true,
+  "autoFocusSearch": true,
+  "lookAtTarget": true,
+  "distanceMode": "D_8_CHUNKS",
+  "saveInterval": "E_5M",
+  "sortMode": "NAME",
+  "showDirectionLine": true,
+  "enableAutoCleanup": true,
+  "cleanupInterval": 2,
+  "autoOpenIfNear": true,
+  "darkenUnfocusedSlots": true,
+  "highlightFocusedSlots": true,
+  "focusedSlotMatchStrict": false,
+  "searchInsideBE": true,
+  "disableCacheSaving": false,
+  "searchNearDistance": "D_4_CHUNKS",
+  "searchIgnoreFull": false,
+  "stackConfig": {
+    "saveDisplay": true,
+    "saveDamage": false,
+    "saveEnchants": true,
+    "savePlayerHeads": true,
+    "saveCustomModel": true,
+    "saveBEItems": true
+  },
+  "sensible": {
+    "blacklisted": ""
+  }
+}

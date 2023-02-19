@@ -1,0 +1,9 @@
+{
+  "persistFogSettings": false,
+  "disableAirFog": false,
+  "disableWaterFog": false,
+  "disableLavaFog": false,
+  "disablePowderedSnowFog": false,
+  "disableThickFog": false,
+  "disableSkyFog": false
+}

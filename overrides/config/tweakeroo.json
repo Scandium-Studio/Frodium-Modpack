@@ -780,7 +780,7 @@
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
     "tweakToolSwitch": false,
-    "tweakWeaponSwitch": true,
+    "tweakWeaponSwitch": false,
     "tweakYMirror": false,
     "tweakZoom": false
   },

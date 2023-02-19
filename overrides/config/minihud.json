@@ -370,7 +370,7 @@
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
-    "overlayLightLevel": false,
+    "overlayLightLevel": true,
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
     "overlayRegionFile": false,

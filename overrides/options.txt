@@ -38,8 +38,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Stay_True_1.19.zip"]
+incompatibleResourcePacks:["file/Stay_True_1.19.zip","file/Stay_True_1.19.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -49,7 +49,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -71,7 +71,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -117,6 +117,14 @@ key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.0
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.antighost.reveal:key.keyboard.g
 key_key.carry.desc:key.keyboard.unknown
+key_key.chesttracker.opengui:key.keyboard.unknown
+key_key.coordinatesdisplay.visible:key.keyboard.o
+key_key.coordinatesdisplay.coordinatesgui:key.keyboard.c
+key_key.coordinatesdisplay.configreload:key.keyboard.f7
+key_key.coordinatesdisplay.openfile:key.keyboard.f6
+key_key.coordinatesdisplay.copypos:key.keyboard.b
+key_key.coordinatesdisplay.sendpos:key.keyboard.x
+key_key.coordinatesdisplay.copypostp:key.keyboard.n
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -143,6 +151,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2
 key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
+key_key.methane.toggle:key.keyboard.backslash
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.replaymod.playeroverview:key.keyboard.b
@@ -163,6 +172,7 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_key.whereisit.finditem:key.keyboard.y
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.backslash
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -195,7 +205,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.equal
 key_iris.keybind.shaderPackSelection:key.keyboard.minus
 soundCategory_master:1.0
-soundCategory_music:0.7620208815079532
+soundCategory_music:0.8908450704225352
 soundCategory_record:1.0
 soundCategory_weather:0.6562819704295424
 soundCategory_block:0.7948637096209096

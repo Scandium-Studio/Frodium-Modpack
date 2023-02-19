@@ -1,0 +1,19 @@
+{
+	"visible": true,
+	"roundPosToTwoDecimals": true,
+	"hudX": 0,
+	"hudY": 0,
+	"renderBackground": true,
+	"renderChunkData": true,
+	"renderDirection": true,
+	"renderBiome": true,
+	"definitionColor": 5635925,
+	"dataColor": 16777215,
+	"deathPosColor": 5636095,
+	"displayPosOnDeathScreen": true,
+	"showDeathPosInChat": true,
+	"padding": 5,
+	"textPadding": 10,
+	"posChatMessage": "{x} {y} {z}",
+	"copyPosMessage": "{x}, {y}, {z}"
+}
