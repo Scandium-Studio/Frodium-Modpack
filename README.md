@@ -1,11 +1,11 @@
 <div align="center"><img src="https://github.com/WForst-Breeze/JustARepo/blob/main/head.png" alt="Frodium Post"/></div>
 <div align="center">
   
-![image](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge)
-![image](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge)
-![image](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
-![image](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
-[![image](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
+![Forks](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge)
+![Mods Count](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
+![Latest Version](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
+[![Frodium Lite](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
 </div>
 <div align="center">
   
@@ -40,10 +40,10 @@ Frodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的
 |内存|11.9GB|
 
 #### 使用 Frodium 前 - FPS: 381!
-![image](https://user-images.githubusercontent.com/110760354/215751234-d62e6f89-2157-4fa7-817e-1fefa555e9c3.png)
+![Before](https://user-images.githubusercontent.com/110760354/215751234-d62e6f89-2157-4fa7-817e-1fefa555e9c3.png)
 
 #### 使用 Frodium 后 - FPS: 959!
-![image](https://user-images.githubusercontent.com/110760354/215751933-7f942926-5529-4bfc-abdf-bc701803f92f.png)
+![After](https://user-images.githubusercontent.com/110760354/215751933-7f942926-5529-4bfc-abdf-bc701803f92f.png)
 
 ## 💾 如何安装
 整合包为 MCBBS 格式，因此支持大部分启动器进行安装！可将整合包拖入启动器窗口自动执行安装操作！
