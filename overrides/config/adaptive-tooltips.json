@@ -1,0 +1,19 @@
+{
+  "wrap_text": "SCREEN_WIDTH",
+  "overwrite_vanilla_wrapping": false,
+  "prioritize_tooltip_top": true,
+  "bedrock_centering": true,
+  "best_corner": false,
+  "always_best_corner": false,
+  "prevent_vanilla_clamping": true,
+  "only_reposition_hover_tooltips": true,
+  "use_y_a_c_l_tooltip_positioner": false,
+  "scroll_key_code": 342,
+  "horizontal_scroll_key_code": 341,
+  "smooth_scrolling": true,
+  "scroll_direction": "REVERSE",
+  "vertical_scroll_sensitivity": 10,
+  "horizontal_scroll_sensitivity": 10,
+  "tooltip_transparency": 1.5,
+  "remove_first_line_padding": true
+}

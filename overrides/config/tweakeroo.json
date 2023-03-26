@@ -726,7 +726,7 @@
     "tweakEmptyShulkerBoxesStackOnGround": false,
     "tweakExplosionReducedParticles": true,
     "tweakF3Cursor": false,
-    "tweakFakeSneaking": false,
+    "tweakFakeSneaking": true,
     "tweakFakeSneakPlacement": false,
     "tweakFastBlockPlacement": false,
     "tweakFastLeftClick": false,
