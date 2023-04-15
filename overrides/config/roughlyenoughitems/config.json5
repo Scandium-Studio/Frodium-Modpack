@@ -57,7 +57,7 @@
 			}
 		},
 		// Declares whether REI is visible.
-		"overlayVisible": true,
+		"overlayVisible": false,
 		"cheatingStyle": "GRAB",
 		"motion": {
 			"favoritesAnimation": true
@@ -163,7 +163,7 @@
 		"isFocusModeZoomed": false
 	},
 	"functionality": {
-		"inputMethod": "rei:default",
+		"inputMethod": "rei:pinyin",
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.

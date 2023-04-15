@@ -19,7 +19,7 @@
       "keys": ""
     },
     "renderNextRestockTime": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": "Q,T"
       }

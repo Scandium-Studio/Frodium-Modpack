@@ -1,0 +1,39 @@
+{
+  "GENERAL": {
+    "openMenuKey": {
+      "keys": "F8"
+    },
+    "enabled": true,
+    "spectatorAutoSwitch": true,
+    "playerName": "",
+    "offsetX": 0.12,
+    "offsetY": 1.5,
+    "rotationX": 0.0,
+    "rotationY": 0.0,
+    "rotationZ": 0.0,
+    "size": 0.5,
+    "mirror": false
+  },
+  "ROTATIONS": {
+    "pitchMin": -20.0,
+    "pitchMax": 20.0,
+    "pitchOffset": 0.0,
+    "headYawMin": -15.0,
+    "headYawMax": -15.0,
+    "bodyYawMin": 0.0,
+    "bodyYawMax": 0.0
+  },
+  "POSTURES": {
+    "poseOffsetMethod": "AUTO",
+    "sneakingYOffset": -30.0,
+    "swimCrawlYOffset": -120.0,
+    "elytraYOffset": -120.0
+  },
+  "DETAILS": {
+    "hurtFlash": true,
+    "swingHands": true,
+    "lightDegree": 0.0,
+    "useWorldLight": true,
+    "worldLightMin": 2
+  }
+}

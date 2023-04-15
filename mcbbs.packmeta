@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.1.1",
-  "version": "1.1.1",
+  "name": "Frodium 1.2.0",
+  "version": "1.2.0",
   "author": "WForst Breeze, Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -34,6 +34,12 @@
       "type": "addon"
     },
     {
+      "path": "config/advancementplaques-common.toml",
+      "hash": "4e062387cc834a7e52488b74bd7d29ea70c2f177",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/advancementscreenshot-fabric.json5",
       "hash": "97374a92a543059ebfa4755a31ca42be88ea97e5",
       "force": true,
@@ -54,6 +60,12 @@
     {
       "path": "config/appleskin.json5",
       "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/auditory.json",
+      "hash": "6b56a55f29ce73f06bda99ec3c2627063174547a",
       "force": true,
       "type": "addon"
     },
@@ -256,6 +268,12 @@
       "type": "addon"
     },
     {
+      "path": "config/draggable-resource-packs.json5",
+      "hash": "b67607d13e477db8e4650e77d75796e82f815e87",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/easiervillagertrading.json",
       "hash": "b3d6c5b660d21182fff1f75dd3545e9d59d24b0f",
       "force": true,
@@ -280,14 +298,26 @@
       "type": "addon"
     },
     {
+      "path": "config/entity_model_features.json",
+      "hash": "22f01f94a0db410efd008d1d0e47c580589721e6",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/exordium.json",
       "hash": "ffb99fa3b51a2e285cff2839deee445e568277ff",
       "force": true,
       "type": "addon"
     },
     {
+      "path": "config/explayerenderer.json",
+      "hash": "0b1cc597f82a7be4ea2815341e2788b95d51f298",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "b95a1a573ddce90bc860d6912d4a2cf6427cdc12",
+      "hash": "8af7c6b79a8a64b8ea1de0ce655552a12c45353d",
       "force": true,
       "type": "addon"
     },
@@ -305,7 +335,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "6887cd8469343c1472d9293195be678c2a15ad03",
+      "hash": "9e1e55d1ea33587f64e645253d63cc94a854b48e",
       "force": true,
       "type": "addon"
     },
@@ -318,6 +348,12 @@
     {
       "path": "config/feytweaks.json",
       "hash": "e5d15ac8c5576d529ec61c6862b8788664643bab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forgeconfigapiport.toml",
+      "hash": "55e5f6d3e9f7fcbc87df5dab701aaec1ac7fc374",
       "force": true,
       "type": "addon"
     },
@@ -335,7 +371,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "c1a98d2f0754c4c57836c6d28bcb4da970dca2c6",
+      "hash": "925edfffdc736ba4a060a9b868efc5790e192573",
       "force": true,
       "type": "addon"
     },
@@ -353,7 +389,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "b25b18cdf6b0b669d38826e8880d8aec5988034d",
+      "hash": "1e0404f1d5d116e9c48b0b009c07e3927202a5fb",
       "force": true,
       "type": "addon"
     },
@@ -401,7 +437,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "b5382b9eadff53b4c9dbbe0100ddab1a358caaac",
+      "hash": "a7840705af6dd8b379d148aa078b6394305b5de5",
       "force": true,
       "type": "addon"
     },
@@ -412,8 +448,26 @@
       "type": "addon"
     },
     {
+      "path": "config/legendarytooltips-common.toml",
+      "hash": "a58a002de026a35f82aadc9f9bdc762976ab5580",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/libgui.json5",
       "hash": "aa2f828b3903fa48180cb314feb1107f4b4e42f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_background.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_background_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
       "force": true,
       "type": "addon"
     },
@@ -436,6 +490,36 @@
       "type": "addon"
     },
     {
+      "path": "config/litematica/litematica_the_lost_end_city.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_the_lost_end_city_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_the_lost_end_city_dim_minecraft_the_end.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_winter_valley.json",
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_winter_valley_dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/litematica/litematica_____.json",
       "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb",
       "force": true,
@@ -449,7 +533,7 @@
     },
     {
       "path": "config/litematica/litematica__________________b__.json",
-      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb",
+      "hash": "103159b86a77c325b2be091df6b85b8ad8b5b330",
       "force": true,
       "type": "addon"
     },
@@ -473,7 +557,7 @@
     },
     {
       "path": "config/litematica.json",
-      "hash": "124239442a20dbbefcca524b2d0bf319e3be300c",
+      "hash": "5407c6f5ae98f35de9eac5a87e62511e943f4046",
       "force": true,
       "type": "addon"
     },
@@ -497,7 +581,13 @@
     },
     {
       "path": "config/masa_gadget_mod.json",
-      "hash": "9a4876e7369dfe8c4fbc2da549f8067435f7ec0f",
+      "hash": "88aaa50fd6effd7c539a9ade674b28ee294870ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/merchantmarkers-common.toml",
+      "hash": "7ce24989488bd64908fece8eec988e7d41e2c0d2",
       "force": true,
       "type": "addon"
     },
@@ -508,8 +598,26 @@
       "type": "addon"
     },
     {
+      "path": "config/microdurability.json5",
+      "hash": "8534e2148e5d8aa1c09865d5fc69c6b3f7c9daf5",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/midnightlib.json",
       "hash": "d280a7026524ae95864bae0638691f87c626c7b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/background.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/background_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe",
       "force": true,
       "type": "addon"
     },
@@ -528,6 +636,36 @@
     {
       "path": "config/minihud/captive_minecraft_1_19_3_wr_dim_minecraft_the_nether.json",
       "hash": "8dc2dc4c918da2811000ebaffaeed4f843d96a5f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/the_lost_end_city.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/the_lost_end_city_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/the_lost_end_city_dim_minecraft_the_end.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/winter_valley.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/winter_valley_dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe",
       "force": true,
       "type": "addon"
     },
@@ -569,13 +707,19 @@
     },
     {
       "path": "config/minihud.json",
-      "hash": "c307981aa7fb7c591ef7d48a90c08abd1ac6daa2",
+      "hash": "4a14073318d62003794cc0796dec6fdf1a1acc72",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/modelfix-client.json",
       "hash": "efb85a31cc66fc9df084ac913cc37d6a3e2b725d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/moderate-loading-screen.json5",
+      "hash": "a532cb038d2bb323b0197990916c43197cfb719d",
       "force": true,
       "type": "addon"
     },
@@ -593,7 +737,7 @@
     },
     {
       "path": "config/motionblur.json",
-      "hash": "dab0118cccd38b3e8792a4ddd4cc9403c040e6d1",
+      "hash": "c188d5dc1b433bebc99c149fa230e48d622ffd31",
       "force": true,
       "type": "addon"
     },
@@ -652,8 +796,14 @@
       "type": "addon"
     },
     {
+      "path": "config/panorama.json",
+      "hash": "c46c78623c9bc6e309c09cbb26b0653651e9b52d",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/peek/peek.properties",
-      "hash": "cda0abf0bfd9ea652ffe4353ccec221175192eb1",
+      "hash": "9de7a3b3055eb7a201cd80187527ea61476c8c43",
       "force": true,
       "type": "addon"
     },
@@ -682,8 +832,14 @@
       "type": "addon"
     },
     {
+      "path": "config/rightclickharvest.json",
+      "hash": "775e97887c707f110bbe6f3f188724a3d11d2536",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "900129b018f7788a0cc5890c92bb82830e9c5ae0",
+      "hash": "c55176501cce515cfa22b5eaa3d4a46b4e4c09d7",
       "force": true,
       "type": "addon"
     },
@@ -695,13 +851,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "e6f95fe9d6e599fe8a3e12556f5f308cd86d1c01",
+      "hash": "86feec7ae47de23718fd375b9b9a29bd2303b0b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "71a8c15b324a8823c8949af3835b83a1b1d0be8d",
+      "hash": "d14596c51c95189f67064c9326f6d2e187b8432d",
       "force": true,
       "type": "addon"
     },
@@ -720,6 +876,12 @@
     {
       "path": "config/simplebackup.json5",
       "hash": "512738fdb37816af2a5dae5b21ee66672aae66d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/sit.json5",
+      "hash": "95ec062d113ee9be1be3ad2e5654b90dd590bbae",
       "force": true,
       "type": "addon"
     },
@@ -743,7 +905,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "4c4aa03982f49e70896e4214602610d822d6bb74",
+      "hash": "64b85f3d05264ffc2b960d72b331903dc8bdb675",
       "force": true,
       "type": "addon"
     },
@@ -767,19 +929,19 @@
     },
     {
       "path": "config/sound_physics_remastered/allowed_sounds.properties",
-      "hash": "0996c3efa40802195d17d21bcbaf80c1c4ea87e3",
+      "hash": "0133e8dafa0e2abd4070054ff80f23adeb19e64b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "daf0e6633175f52121233e779ec12e8634b8bb19",
+      "hash": "c0a5f527211473457844611d9febeeb2d94ef03f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "3c344bee0670ccbd22c81c30760cfe0a3abf503a",
+      "hash": "4294ca9038ff0d7d1161c6807bdad5d7c1c22bf8",
       "force": true,
       "type": "addon"
     },
@@ -814,6 +976,12 @@
       "type": "addon"
     },
     {
+      "path": "config/trade_cycling/trade_cycling.properties",
+      "hash": "9d99f69fde23e61fc18a1b741d844c48590a928b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/tweakermore.json",
       "hash": "6de2334e3bc95ab37bae66e3853174530f3567c9",
       "force": true,
@@ -821,13 +989,25 @@
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "97dc9a066e9c14652707f01ebe6ddb5be7e1e3a0",
+      "hash": "22ee90da9809fed2868b96e42691a1394fd21a14",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tweakmyclient.json",
       "hash": "c67b0ed34d849e37f01863fcf423acb8189f0ccf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/visualworkbench-client.toml",
+      "hash": "4e377073bec19334af5a8b19eaff8acce0aac91c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/visual_workbench.json",
+      "hash": "935593b7310a0b6875c61755ea866d7948a9127d",
       "force": true,
       "type": "addon"
     },
@@ -845,13 +1025,13 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "8f945e1593950786366826cd21dadcb42643eaec",
+      "hash": "dcb8559473a3f73490c69556d65aad3787c74cba",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "5e29c0282b1ef9edcae62180b7846e0e4856b281",
+      "hash": "a7aa7fc9d476ff6920d61b271edefefda9617b39",
       "force": true,
       "type": "addon"
     },
@@ -863,7 +1043,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "d01c32ede8669cfd18bca75d4408d9d57a08a02f",
+      "hash": "9bcbc1e8af689d74c581308125221ae14ec0381b",
       "force": true,
       "type": "addon"
     },
@@ -886,6 +1066,12 @@
       "type": "addon"
     },
     {
+      "path": "config/标识符翻译.json",
+      "hash": "a413866347d712c8c60eaed8ee739c68f7427359",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "hmclversion.cfg",
       "hash": "444ea3f753323ab3d7f2637ab3025cec5e1248a7",
       "force": true,
@@ -898,8 +1084,992 @@
       "type": "addon"
     },
     {
+      "path": "Java17/bin/api-ms-win-core-console-l1-1-0.dll",
+      "hash": "724f4f91041ad595e365b724a0348c83acf12bbb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-datetime-l1-1-0.dll",
+      "hash": "4940d5b92b6b80a40371f8df073bf3eb406f5658",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-debug-l1-1-0.dll",
+      "hash": "e7c8a6c29c3158f8b332eea5c33c3b1e044b5f73",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "hash": "51cbb7ba47802dc630c2507750432c55f5979c27",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-file-l1-1-0.dll",
+      "hash": "9acbeef0ac510c179b319ca69cd5378d0e70504d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-file-l1-2-0.dll",
+      "hash": "04669214375b25e2dc8a3635484e6eeb206bc4eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-file-l2-1-0.dll",
+      "hash": "402b7b8f8dcfd321b1d12fc85a1ee5137a5569b2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-handle-l1-1-0.dll",
+      "hash": "a2e2a40cea25ea4fd64b8deaf4fbe4a2db94107a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-heap-l1-1-0.dll",
+      "hash": "b4310929ccb82dd3c3a779cab68f1f9f368076f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-interlocked-l1-1-0.dll",
+      "hash": "f779cdef9ded19402aa72958085213d6671ca572",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "hash": "47143a66b4a2e2ba019bf1fd07bcca9cfb8bb117",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-localization-l1-2-0.dll",
+      "hash": "9874398548891f6a08fc06437996f84eb7495783",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-memory-l1-1-0.dll",
+      "hash": "9c03356cf48112563bb845479f40bf27b293e95e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "hash": "cb59f1fe73c17446eb196fc0dd7d944a0cd9d81f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "hash": "2745259f4dbbefbf6b570ee36d224abdb18719bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-processthreads-l1-1-0.dll",
+      "hash": "50699041060d14576ed7bacbd44be9af80eb902a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-processthreads-l1-1-1.dll",
+      "hash": "0bffb9ed366853e7019452644d26e8e8f236241b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-profile-l1-1-0.dll",
+      "hash": "e7e0b18a40a35bd8b0766ac72253de827432e148",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "hash": "24f37d46dfc0ef303ef04abf9956241af55d25c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-string-l1-1-0.dll",
+      "hash": "637e4a9946691f76e6deb69bdc21c210921d6f07",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-synch-l1-1-0.dll",
+      "hash": "5584c189216a17228cca6cd07037aaa9a8603241",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-synch-l1-2-0.dll",
+      "hash": "a9aebbbb73b7b846b051325d7572f2398f5986ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "hash": "f20ae25484a1c1b43748a1f0c422f48f092ad2c1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-timezone-l1-1-0.dll",
+      "hash": "4bf13db65943e708690d6256d7ddd421cc1cc72b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-core-util-l1-1-0.dll",
+      "hash": "1e1a5ab47e4c2b3c32c81690b94954b7612bb493",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-conio-l1-1-0.dll",
+      "hash": "49002b58cb0df2ee8d868dec335133cf225657df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-convert-l1-1-0.dll",
+      "hash": "c84e41fdcc4ca89a76ae683cb390a9b86500d3ca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-environment-l1-1-0.dll",
+      "hash": "9a4818897251cacb7fe1c6fe1be3e854985186ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "hash": "78fa03c89ea12ff93fa499c38673039cc2d55d40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-heap-l1-1-0.dll",
+      "hash": "60b4cf246c5f414fc1cd12f506c41a1043d473ee",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-locale-l1-1-0.dll",
+      "hash": "9c1df49a8dbdc8496ac6057f886f5c17b2c39e3e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-math-l1-1-0.dll",
+      "hash": "8b35ec4676bd96c2c4508dc5f98ca471b22deed7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-multibyte-l1-1-0.dll",
+      "hash": "91eef52c557aefd0fde27e8df4e3c3b7f99862f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-private-l1-1-0.dll",
+      "hash": "0c33cfe40edd278a692c2e73e941184fd24286d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-process-l1-1-0.dll",
+      "hash": "ec96f7beeaec14d3b6c437b97b4a18a365534b9b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-runtime-l1-1-0.dll",
+      "hash": "a19acefa3f95d1b565650fdbc40ef98c793358e9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-stdio-l1-1-0.dll",
+      "hash": "982b5da1c1f5b9d74af6243885bcba605d54df8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-string-l1-1-0.dll",
+      "hash": "7f389e6f2d6e5beb2a3baf622a0c0ea24bc4de60",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-time-l1-1-0.dll",
+      "hash": "ee815a158baacb357d9e074c0755b6f6c286b625",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/api-ms-win-crt-utility-l1-1-0.dll",
+      "hash": "eaa07829d012206ac55fb1af5cc6a35f341d22be",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/attach.dll",
+      "hash": "640808d4a5fbdd9338b99933d5ee02c594ce932f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/awt.dll",
+      "hash": "403bda1b749395270193b9627421283459bf83df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/dt_shmem.dll",
+      "hash": "97ea9b331a898dc4f19442d98e10fc77878484fc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/dt_socket.dll",
+      "hash": "da9e910206057f722d80ea9793f553a41cd57116",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/fontmanager.dll",
+      "hash": "be6c666e03fcf4b392e722919a8eebf66009d250",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/freetype.dll",
+      "hash": "403d0bc43431ac6c5831df5f71118753161493a2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/instrument.dll",
+      "hash": "fc630484ffc79dd1a132881b1151af1f2d3a33b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/j2gss.dll",
+      "hash": "8f4bb0feb6f42a408927043b5d5edce85a4900ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/j2pcsc.dll",
+      "hash": "b07b40d8e9426ba3309d15ce5b7fda6bf380fecb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/j2pkcs11.dll",
+      "hash": "9e41f989da09d321e2b494a386a136ded5111b81",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jaas.dll",
+      "hash": "cf7c602e42926d228417b94478a59c43951fbbc7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jabswitch.exe",
+      "hash": "98073040bc347a64a4c277f21407d80bde82c0ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jaccessinspector.exe",
+      "hash": "27fd425485e8f3bea22b222ae96f892b53db9269",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jaccesswalker.exe",
+      "hash": "61fd145f614f3d2260a56adb10c0113a98bc3a59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jar.exe",
+      "hash": "972b9d8c75fc6af0109123951e97baf1ed62077c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jarsigner.exe",
+      "hash": "ec6b63ee79a0f2887458b045436e5576f1dcf752",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/java.dll",
+      "hash": "fd71c986bf64d4f1ea82d84f181cddbb626e9512",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/java.exe",
+      "hash": "2e7889bd224a11f0a051e2e0646c583e5b8a6e8d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javaaccessbridge.dll",
+      "hash": "045aca536f51aa291dc9cc1dc39f957932379fa4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javac.exe",
+      "hash": "602aa5644d2fa6bbcb81f82e363c59e4773399fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javadoc.exe",
+      "hash": "849eeb4c07770ca1f6a4164fd224b05dbee5b26f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javajpeg.dll",
+      "hash": "bf3e65598b85f982c660315540fb773ec616a495",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javap.exe",
+      "hash": "6cf600296e1190ebc2b2295a2b9d5adabcdc7635",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/javaw.exe",
+      "hash": "c90097e30fb59d1b9c04cecbcdc2c6fc9a08d343",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jawt.dll",
+      "hash": "69be1c17f9c70b70c2a00e27118de073537fdf3d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jcmd.exe",
+      "hash": "d6d83564756a5a23550086d92081c24d523b4bd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jconsole.exe",
+      "hash": "29a61520b0cfa6b3b0d523f7b24719ba4f75c55c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jdb.exe",
+      "hash": "88ad1c5eddf4a094411b9500a6342cb1d808d6dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jdeprscan.exe",
+      "hash": "26ca421e9098c9d6af9715b5dda9e79583b5e5ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jdeps.exe",
+      "hash": "a9c5a589807f854d73cd29a552a206fc703492b0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jdwp.dll",
+      "hash": "4cbfa4408141139ae892964cc71d4856202352e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jfr.exe",
+      "hash": "33e1641ad1f7839148993f304e32e884ea9dd247",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jhsdb.exe",
+      "hash": "baf3d7d28c99f2733576381dd5d4ae9893225aeb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jimage.dll",
+      "hash": "8e0994d48f76311e001c9525dcf9703c39a143c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jimage.exe",
+      "hash": "dd532e00832c43ff80e0578eff3a8d11859080cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jinfo.exe",
+      "hash": "c8448a522c5929864aceaa955df18997d2cd1e42",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jli.dll",
+      "hash": "ddcd609a085fce7293f5c8f2bedf08447f76f960",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jlink.exe",
+      "hash": "3522c74605a5d5929d1c650087793fd64ad7884c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jmap.exe",
+      "hash": "4ae2fb6aecff2c5e27a5bf7b756aef47b187f545",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jmod.exe",
+      "hash": "41d5a238e8ad9c19a06bf18a92b0a0a237d2783f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jpackage.dll",
+      "hash": "a1571db0ca30ce9f8122ebef0ea65e9ec7db0df4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jpackage.exe",
+      "hash": "5b56ec504cb91abad7aee81f3480117505853a6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jps.exe",
+      "hash": "cd00e2f55d40b350c256e816659e6c0ea83112cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jrunscript.exe",
+      "hash": "bd2830452a442e35362cdfaa11a9d3495d9c94f3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jshell.exe",
+      "hash": "18d3a94456e4261804cf04a14b9f8e68fb52815d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jsound.dll",
+      "hash": "c0f73a74b9c82ab9c5d0f4598af646a5eae61651",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jstack.exe",
+      "hash": "feb1a6b72d46f2070dc796153f9df23828e9c33a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jstat.exe",
+      "hash": "bdf70fc7653dd59637886724b9c065577615c199",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/jstatd.exe",
+      "hash": "347c4b070ad167552cbc16b2efb9b7f6293b41cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/keytool.exe",
+      "hash": "77f25fe6b25f5ce67036edd7cb449e1c757fb488",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/kinit.exe",
+      "hash": "6507ef22dfc10b0d3295294d9d3db7158e9bd9bf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/klist.exe",
+      "hash": "18d1ef5a4ddb52f92aaf25f547016e989402636c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/ktab.exe",
+      "hash": "a2abbabf15f4f91effeebcc7b23a5413da8d8f65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/lcms.dll",
+      "hash": "23370aab56186be5ae1d0e174398a72c9024f5de",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/le.dll",
+      "hash": "89e95424c2fde48612678ce7ad0ca316aa91d1db",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/management.dll",
+      "hash": "d1b8b4dae24b1adf5f240b51f718e8a5ce1f8825",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/management_agent.dll",
+      "hash": "b55a4c6c4b0349fef79b10737adbaa70ef0b086a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/management_ext.dll",
+      "hash": "7cc8d0a7f5068820f7bb0c9d3671fe968522ca52",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/mlib_image.dll",
+      "hash": "5db95c5865867e7f78e34be3f74ffe02f9719462",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/msvcp140.dll",
+      "hash": "54c2da9552671b161cc87eb50fbdb86319b00f56",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/net.dll",
+      "hash": "cac49d3d3eb991c5f8f233e4f0d00f8935f9b62c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/nio.dll",
+      "hash": "1cf6fa06dd5b43254d59e597a43cd01556b3f608",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/prefs.dll",
+      "hash": "ef5e0d187aa8d9fe7d990fbab339f92f9dba9094",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/rmi.dll",
+      "hash": "641c2849a41c5669122f661b322af82448df3ce5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/rmiregistry.exe",
+      "hash": "37cb9870c28e6e01bf81609eb133c259935b2819",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/saproc.dll",
+      "hash": "9bd7d265b2a1fc5057d2d459ef18e7b1f9a4cf49",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/serialver.exe",
+      "hash": "a52fbbda40b0b408c958bebab31ff851e99db2e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/server/jvm.dll",
+      "hash": "df125e6f6f11a54d86e1b034d5491b6b49746571",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/splashscreen.dll",
+      "hash": "ec4b5645a46b3b5a90bf7d9c8b9b481b1a6ca9b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/sspi_bridge.dll",
+      "hash": "c9f18eb4631daa6b12c8651bcccabfd5d2c6722c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/sunmscapi.dll",
+      "hash": "0645f69fe6d4a07834aec1fbb4cce1d54d1a7cbd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/svml.dll",
+      "hash": "2865aebb2e9a2b3c621182831248f24ffaef2682",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/ucrtbase.dll",
+      "hash": "1062942b1bdfc8d7c8a941c152df69216010d780",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/vcruntime140.dll",
+      "hash": "13b5857a136930f0d25e02d710e97cec1dc69834",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/verify.dll",
+      "hash": "9aa83cc306e775d14d41b20540e74570979bc935",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/w2k_lsa_auth.dll",
+      "hash": "12abcc6803eead00db00343aace54be6a3a9c50c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/windowsaccessbridge-64.dll",
+      "hash": "b9ede1a477b0d048165740ffab893ab506cd53ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/WinFallbackLookup.dll",
+      "hash": "033b9d34f1fad653e777bbbb4aa7bc9b84c2517c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/bin/zip.dll",
+      "hash": "eb920105866f8165f0e540a1bcd3f3461e697154",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/logging.properties",
+      "hash": "167808418571e9209b952188ddab2f4e62920e68",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/management/jmxremote.access",
+      "hash": "db484eb763831db19c089c9820a54cc875e4f624",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/management/jmxremote.password.template",
+      "hash": "3bad5b040b6d7117df4c40609ea0f8074339ee47",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/management/management.properties",
+      "hash": "a69b8a1d371d0e284490797d0b7bd952b339c92f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/net.properties",
+      "hash": "b2c0dfb00bf699e817bdd49b14bc24b8d3282c65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/java.policy",
+      "hash": "a04c23f61d2958fc1e9882509927b43cab0e799c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/java.security",
+      "hash": "982e48466428e1f49c1a5941c73afdacefd1d22e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/limited/default_local.policy",
+      "hash": "7fb67e217c53a685cb9314001592b5bd50b5fbb9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/limited/default_US_export.policy",
+      "hash": "f3f974d3f6245c50804dcc47173aa29d4d7f0e2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/limited/exempt_local.policy",
+      "hash": "ee67275bc119c98191a09ff72f043872b05ab7fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/README.txt",
+      "hash": "a97cd312d6a2a9c8c780c15e5af51a2f4f97c2cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/unlimited/default_local.policy",
+      "hash": "ad2509631ed743c882999ac1200fd5fb8a593639",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/security/policy/unlimited/default_US_export.policy",
+      "hash": "f3f974d3f6245c50804dcc47173aa29d4d7f0e2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/conf/sound.properties",
+      "hash": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/classfile_constants.h",
+      "hash": "819fe36c0e208dd9c679ff1c954b8a72ad5b4734",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/jawt.h",
+      "hash": "88ba9a8aafce101608257ffbf7fedce79dcf1d14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/jdwpTransport.h",
+      "hash": "08e89b80084c5e88be9e48f3dc3c32cfef22e581",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/jni.h",
+      "hash": "976bb53f73303af62d6b81181ecd04533677c738",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/jvmti.h",
+      "hash": "cf786e43371e67ac48cfdde9e702e6fa1a0762a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/jvmticmlr.h",
+      "hash": "d0a7c32c550e91100d88e6ce3e6c735b6bb5e32e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/win32/bridge/AccessBridgeCallbacks.h",
+      "hash": "6e560f50e1211591b8347541e03b642d2af0839d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/win32/bridge/AccessBridgeCalls.h",
+      "hash": "056d91c634ba6c766b779b30a98d01fa40cbe50e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/win32/bridge/AccessBridgePackages.h",
+      "hash": "3873d43020385cd03e39504cfdcae741f31f9fc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/win32/jawt_md.h",
+      "hash": "eb2ccf36d4b959b37a8ada7494ca787fe97ae54c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/include/win32/jni_md.h",
+      "hash": "ba5058d9c2a9ee2340ab9ec39068db2a1f1b151b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/classlist",
+      "hash": "9a90c58a196145927f344997bb2030c600f9e504",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/ct.sym",
+      "hash": "9b6da07e74e382990aebd64e59db34c10e04fa35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/fontconfig.bfc",
+      "hash": "d6b4290da768e050fe6c310366272f87e6c2b6d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/fontconfig.properties.src",
+      "hash": "5309ae6dd01de0090131ecc469e965f286186fa3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jawt.lib",
+      "hash": "efb9d273b44deefad484f22e9e17b8854933b6c3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jfr/default.jfc",
+      "hash": "0038b49abed582eede78855931d4da8f25a0a831",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jfr/profile.jfc",
+      "hash": "ca856b35e987e2f2e5b55bdc72b296138d201fbc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jrt-fs.jar",
+      "hash": "a7ad9993d0944eba4b548a4328e60109e3d0a0a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jvm.cfg",
+      "hash": "c5a940d2dee8e7bfc01a87d585ddca420d37e226",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/jvm.lib",
+      "hash": "030f132b883674d377c62fc11ef494e3b1e1d538",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/modules",
+      "hash": "fdf4b35eb20823a0531e0469be5eb20b12f3f87a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/psfont.properties.ja",
+      "hash": "67c15e05a398b4ce6409d530a058f7e1b2208c20",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/psfontj2d.properties",
+      "hash": "4edd9e0fc3d30fbdcabcdcaab3bc0b3157fc881e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/security/blocked.certs",
+      "hash": "aeaebb14fbf146fbb0aaf347446c08766c86ca7f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/security/cacerts",
+      "hash": "b6f7c3edada9ade6a7b4d60e368e121dda1ec8f7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/security/default.policy",
+      "hash": "46654bcd83957407d537ec070a1211d6d67c56f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/security/public_suffix_list.dat",
+      "hash": "80ea8bf5924ab4285dd3ce1aec70844b2c79a0c7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/tzdb.dat",
+      "hash": "51bdb85ef60c19d90f3b36c739b6f920742e2bd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "Java17/lib/tzmappings",
+      "hash": "c52c42d591f4c650b629e6b374e967e211fb5aeb",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "log4j2.xml",
       "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fabric-api-0.74.0+1.19.3.jar",
+      "hash": "119d1710004834d83f34d2b8519aebedba981979",
       "force": true,
       "type": "addon"
     },
@@ -970,7 +2140,7 @@
       "type": "addon"
     },
     {
-      "path": "mods/[api] fabric-api-0.74.0+1.19.3.jar",
+      "path": "mods/[api] fabric-api-0.74.0+1.19.3.jar.disabled",
       "hash": "119d1710004834d83f34d2b8519aebedba981979",
       "force": true,
       "type": "addon"
@@ -978,6 +2148,24 @@
     {
       "path": "mods/[api] fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
       "hash": "2f2d38ac49cb1882dc23aeb85e666e0bb76b872d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[api] ForgeConfigAPIPort-v5.0.11-1.19.3-Fabric.jar",
+      "hash": "f7de03448f9e08e963384dde5cb4c97d624155fb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[api] Iceberg-1.19.3-fabric-1.1.5.jar",
+      "hash": "1453e69c88e75bbe881530e553ce4b917ac9dd23",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[api] jamlib-0.6.0+1.19.3.jar",
+      "hash": "4fffe0147100c121dc48333e6a52a139b93d6013",
       "force": true,
       "type": "addon"
     },
@@ -1000,8 +2188,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[api] PuzzlesLib-v5.0.19-1.19.3-Fabric.jar",
+      "hash": "bc45f6efd2586761987b5d3097b57e9e7b62db9c",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[api] YetAnotherConfigLib-2.2.0.jar",
       "hash": "62158cf974075dfd896540191e4ae108e6ec67b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[api]Prism-1.19.3-fabric-1.0.4.jar",
+      "hash": "387f3a6b680ee516715e5147248fb86a6e483fa2",
       "force": true,
       "type": "addon"
     },
@@ -1014,6 +2214,12 @@
     {
       "path": "mods/[api][Masa] malilib-fabric-1.19.3-0.14.0.jar",
       "hash": "a46313e2c551c52005d6dc7eef7c53adf4c483f5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Debug] panorama-1.3.0.jar",
+      "hash": "51e47e3e3eb7b96f0c05aead990296912feb8eae",
       "force": true,
       "type": "addon"
     },
@@ -1060,6 +2266,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[Masa][投影打印机-破坏平衡谨慎使用] litematica-printer-1.19.3-3.1.jar",
+      "hash": "e45462b9c81e9aed05bd8e0baefb92223f959a89",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[Masa][滚轮增强] itemscroller-fabric-1.19.3-0.18.0.jar",
       "hash": "1b5f0d073a8703dcbb2345b89cbb11bbc02e607c",
       "force": true,
@@ -1078,14 +2290,14 @@
       "type": "addon"
     },
     {
-      "path": "mods/[Optifine功能][自定义GUI] optigui-1.1.6.jar",
-      "hash": "35887bf81b9e1b6296d3955b64f37cd9a65b2785",
+      "path": "mods/[Optifine功能][实体模型功能] entity_model_features_fabric_1.19.3-0.2.4.jar",
+      "hash": "f9917b50d56d3a120e7b710c78e1724540ee5ecc",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/[Optifine功能][自定义实体模型] cem-0.7.1.jar",
-      "hash": "c99165b56680c6f99b6bef5989070bb6e817adce",
+      "path": "mods/[Optifine功能][自定义GUI] optigui-1.1.6.jar",
+      "hash": "35887bf81b9e1b6296d3955b64f37cd9a65b2785",
       "force": true,
       "type": "addon"
     },
@@ -1140,12 +2352,6 @@
     {
       "path": "mods/[优化][快速加载] Fastload+1.19.3-2.6.8.jar",
       "hash": "5cb79585998f26c4a64af3d3632186644b192d7d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[优化][快速箱子] fast-chest-1.4+1.19.3.jar.disabled",
-      "hash": "e4379c444259e7a335de476531827e06acf070ae",
       "force": true,
       "type": "addon"
     },
@@ -1366,8 +2572,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/[功能和信息显示][Quilt加载动画] quilt_loading_screen-5.0.0+1.19.3-rc1.jar",
-      "hash": "a3133c766ea2a92139c3058b623c7feabf8f4e46",
+      "path": "mods/[功能和信息显示][REI交易信息]RoughlyEnoughTrades-1.19.3-1.0.jar",
+      "hash": "8e8c2a499869408e50a5df09d4fa439188b13559",
       "force": true,
       "type": "addon"
     },
@@ -1384,6 +2590,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][REI资源信息] rer-2.7.0.jar",
+      "hash": "e49c541ac319898498bc7e2ae54582d8f230171b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][ReplayMod] replaymod-1.19.3-2.6.10.jar",
       "hash": "279dfc2e598088eb1031162d98aff80944ef790a",
       "force": true,
@@ -1396,8 +2608,32 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][传说工具提示] LegendaryTooltips-1.19.3-fabric-1.4.1.jar",
+      "hash": "8b65b06742c46eabd6419fc1e0771ebffeacdbd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][你坐啊] sit-1.19.3-22.jar",
+      "hash": "5c5b0f5a5a75e6d6186799b32e6a9f014f2ccf1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][动态模糊] motionblur-1.0.1+mc1.19.3.jar",
       "hash": "b19110dc554677d45e99138ee1115f39f88cf817",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][可视化工作台] VisualWorkbench-v5.0.0-1.19.3-Fabric.jar",
+      "hash": "aebade017cec7032b6410e35fd9b897276baf8fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][右键收割] right-click-harvest-3.1.0+1.19.3.jar",
+      "hash": "d71dff252f62c088452f6f186f0e8c2041d37092",
       "force": true,
       "type": "addon"
     },
@@ -1426,8 +2662,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][微耐久显示] microdurability-0.3.6+1.19.jar",
+      "hash": "fda6e80e539097300b1c5cb7643992717960aeb1",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][快捷潜影盒] quickshulker-1.3.10-1.19.3.jar",
       "hash": "98cca70c011dd4647097779a5a0c6b86d0502ee9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][快速刷新交易] trade-cycling-fabric-1.19.3-1.0.5.jar",
+      "hash": "ee074ad07678ed5fb3b40bb5186dc7eeee504695",
       "force": true,
       "type": "addon"
     },
@@ -1462,8 +2710,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][标识符翻译] Identifier-Translation-1_1.19.3.jar",
+      "hash": "1898669d8dc77c721515fdf0346c84f6dd29db5d",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][模组菜单] modmenu-5.0.2.jar",
       "hash": "bcc0199aeaa40fabeda867d629a9fca7300056ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][游戏内账号切换] InGameAccountSwitcher-Fabric-1.19-8.0.1.1.jar",
+      "hash": "329220b914d63506fb8767e3985be89b410d0da9",
       "force": true,
       "type": "addon"
     },
@@ -1492,6 +2752,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][直接丢弃] ctrlq-fabric-mc1.19.3+-1.9.jar",
+      "hash": "937eaf746aa4e975a8cc2a6fec53d40b3049bc58",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][第三人称视角] BetterThirdPerson-Fabric-1.19-1.9.0.jar",
       "hash": "d7f51904aa11b45d928898b44b626581eecd6b4d",
       "force": true,
@@ -1500,6 +2766,12 @@
     {
       "path": "mods/[功能和信息显示][细节盔甲] DetailArmorBar-2.6.3+1.19.3-fabric.jar",
       "hash": "fcf54e15f5b2b363284bedf049006618b63be625",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][美西螈桶修复] axolotl-item-fix-1.1.4.jar",
+      "hash": "7c1971002b420f92fb325c0aa72c83186f1f3c21",
       "force": true,
       "type": "addon"
     },
@@ -1558,6 +2830,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能和信息显示][输入法冲突修复] imblockerfabric-1.0.20.jar",
+      "hash": "e2432df66ec38f14c1f8537268b9f5e4be131411",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能和信息显示][进度信息展示] advancementinfo-1.19.3-fabric0.68.1-1.3.1.jar",
       "hash": "36a765ac27ad40e85322db9b47e70787d4ee0ad3",
       "force": true,
@@ -1566,6 +2844,12 @@
     {
       "path": "mods/[功能和信息显示][进度截图]advancementscreenshot-fabric_1.19.3-3.9.jar",
       "hash": "4e461ef151fbe1066a6296bb383705dc308bcea0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][进度牌匾] AdvancementPlaques-1.19.3-fabric-1.4.8.jar",
+      "hash": "b2d4f80753974a468a600e61b5e59f2bb97a63f9",
       "force": true,
       "type": "addon"
     },
@@ -1584,6 +2868,18 @@
     {
       "path": "mods/[功能和信息显示][鞘翅胸甲快速切换] elytra-chestplate-swapper-1.2.1-MC1.19.jar",
       "hash": "7e8e891e4c34fc94bec817bed0397ff832cde264",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][音效扩展] auditory-0.0.5-1.19.3.jar",
+      "hash": "863b225a952de7bf1f851456950edb8e6e46a86e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能和信息显示][额外玩家渲染] ExtraPlayerRenderer-1.19.3-2.2.2.jar",
+      "hash": "449e4299ae4feffc882e4094eea7d26707d8da55",
       "force": true,
       "type": "addon"
     },
@@ -1667,7 +2963,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "076d6b98ee4c47ea777eeca4c1e01c9222bd3d56",
+      "hash": "d6e6e340a140388fe1cb7f8658f209867a016513",
       "force": true,
       "type": "addon"
     },
@@ -1679,13 +2975,91 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "f928e8ab17dc104f70e56b21db039a1f293ea2c2",
+      "hash": "1f4f593cc7dcf67aba7218eee5c948a57acb91ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/FreshAnimations_v1.8.zip",
+      "hash": "7697b74b76045b21809c0c5643024ccf6e36802e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/texts/splashes.txt",
+      "hash": "b7dc31766b50085f60b2253ddead7f37382c3284",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_0.png",
+      "hash": "046606f3c5980afd72d1309c2c93b522aa757b53",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_1.png",
+      "hash": "08365ee76820995ea72ec2de193b7056d660ac5d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_2.png",
+      "hash": "1524a33ab7a4ebde8679d7a2aea5d0d6cbac67df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_3.png",
+      "hash": "628ed30af91790721a8064fdb50b7dbb2e38459d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_4.png",
+      "hash": "6b974850fb84dd71b79f95c0a9a1ba424215c16c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_5.png",
+      "hash": "cb1714f832789472292c8943ff3ddc93d50e746b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/edition.png",
+      "hash": "66d752d09401b3156d580da146999220d483531a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/minecraft.png",
+      "hash": "fe9a8c80d5b88fa9bc8047e49425901048d79b08",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/pack.mcmeta",
+      "hash": "d90043d8031de635c9d825d039c8cd3d7cbb8ed9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/pack.png",
+      "hash": "c25b66d4e395e4266a5051f943182f0df54a0eb0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Stay_True_1.19.zip",
       "hash": "fa2bfd3638eb5db9ebec1027984ae1f8d5d41835",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/XeKr 原版红显16~19plus2.4.zip",
+      "hash": "299ccf4a3f8723411c1fb25e03dd256013082dbb",
       "force": true,
       "type": "addon"
     },
@@ -1709,7 +3083,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryShaders_v4.6.zip.txt",
-      "hash": "52b6c2901ba399e61084319def50dd6eea48e4ba",
+      "hash": "aac950959392288438d7bda3affce722fccfc030",
       "force": true,
       "type": "addon"
     }

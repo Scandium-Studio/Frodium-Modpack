@@ -27,13 +27,13 @@
   "detail_settings": {
     "sky": true,
     "sun_moon": true,
-    "stars": true,
+    "stars": false,
     "rain_snow": false,
     "biome_colors": true,
     "sky_colors": true
   },
   "render_settings": {
-    "fog_distance": 7,
+    "fog_distance": 9,
     "fog_start": 100,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
@@ -63,9 +63,9 @@
     "cloud_height": 192,
     "toasts": true,
     "advancement_toast": true,
-    "recipe_toast": true,
-    "system_toast": true,
-    "tutorial_toast": true,
+    "recipe_toast": false,
+    "system_toast": false,
+    "tutorial_toast": false,
     "instant_sneak": false,
     "prevent_shaders": false
   },

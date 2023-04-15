@@ -1,0 +1,20 @@
+{
+	"armorBars": {
+		"displayArmorBars": true,
+		"displayBarsForUndamagedArmor": true,
+		// If an armor piece is undamaged, its bar will have the defined custom color.
+		"useCustomBarColorForUndamagedArmor": false,
+		"customBarColorForUndamagedArmor": -1
+	},
+	"lowDurabilityWarning": {
+		"displayWarningForTools": true,
+		"displayWarningForArmor": true,
+		"onlyOnMendingItems": true,
+		// An item's durability has to be below both the minimum point value and the minimum percentage for the warning to show!
+		"minDurabilityPointsBeforeWarning": 100,
+		// An item's durability has to be below both the minimum point value and the minimum percentage for the warning to show!
+		"minDurabilityPercentageBeforeWarning": 10,
+		// Set to 0 to disable blinking.
+		"blinkTime": 1.0
+	}
+}

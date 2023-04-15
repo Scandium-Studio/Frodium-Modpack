@@ -26,7 +26,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
-gamma:0.5
+gamma:1.0
 renderDistance:8
 simulationDistance:5
 entityDistanceScaling:1.0
@@ -38,8 +38,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Stay_True_1.19.zip","file/§l不死图腾皮肤包.zip"]
-incompatibleResourcePacks:["file/Stay_True_1.19.zip","file/§l不死图腾皮肤包.zip","file/Stay_True_1.19.zip","file/§l不死图腾皮肤包.zip","file/Stay_True_1.19.zip","file/§l不死图腾皮肤包.zip"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip","file/FreshAnimations_v1.8.zip","continuity:default","continuity:glass_pane_culling_fix","betterbeds:fancybeds","file/§l不死图腾皮肤包.zip","file/Frodium Resources"]
+incompatibleResourcePacks:["file/Stay_True_1.19.zip","file/FreshAnimations_v1.8.zip","file/§l不死图腾皮肤包.zip"]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -116,6 +116,7 @@ key_key.hotbar.9:key.keyboard.9
 key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.0
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.antighost.reveal:key.keyboard.g
+key_auditory.sound_reload_key:key.keyboard.unknown
 key_key.autofish.open_gui:key.keyboard.v
 key_key.carry.desc:key.keyboard.unknown
 key_key.chesttracker.opengui:key.keyboard.unknown
@@ -140,6 +141,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.imblocker.switchIMEState:key.keyboard.f6
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2
@@ -147,6 +149,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.modmenu.open_menu:key.keyboard.unknown
+key_panorama.keybinds.screenshot:key.keyboard.f4
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.replaymod.playeroverview:key.keyboard.b
 key_key.replaymod.lighting:key.keyboard.z
@@ -166,6 +169,7 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
+key_key.trade_cycling.cycle_trades:key.keyboard.c
 key_key.whereisit.finditem:key.keyboard.y
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.backslash
@@ -199,7 +203,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.equal
 key_iris.keybind.shaderPackSelection:key.keyboard.minus
 soundCategory_master:1.0
-soundCategory_music:0.8908450704225352
+soundCategory_music:0.08098591549295775
 soundCategory_record:1.0
 soundCategory_weather:0.6562819704295424
 soundCategory_block:0.7948637096209096
