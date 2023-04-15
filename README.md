@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/WForst-Breeze/JustARepo/blob/main/head.png" alt="Frodium Post"/></div>
+<div align="center"><img src="https://github.com/WForst-Breeze/Files/blob/main/Frodium/Post_New2.png?raw=true" alt="Frodium Post"/></div>
 <div align="center">
   
 ![Forks](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge)
