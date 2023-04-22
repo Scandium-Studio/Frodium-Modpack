@@ -14,16 +14,16 @@ Frodium is committed to adding extremely good optimization and double beautifica
 
 Based on practicality, Frodium has expanded a large number of functions that enrich the game experience on the basis of the [vanilla game](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium currently only supports Fabric 1.19.3. The upgrade of 1.19.4 is undergoing in an orderly manner."):
 
-- **Full Masa Support!** Use _Tweakeroo, Tweak My Cilent, Oh My Minecraft Cilent, Masa Gadget, Mini HUD, Item Scroller, Litematica_ to make you know the world well!
-- **Full Carpet Support!** Let various fun features help you!
-- **Ultimate optimization!** Sodium+Iris blessing, together with 20+ optimization mods to optimize your gaming experience! **🚀FPS+++! 🚀**
-- **Chat report? no!** Say goodbye to poor chat reporting with the _NoChatReports_ mod!
+- **Full MASA Support!** Use _Tweakeroo, Tweak My Cilent, Oh My Minecraft Cilent, Masa Gadget, Mini HUD, Item Scroller, Litematica_ to make you know the world well!
+- **Full CARPET Support!** Let various fun features help you!
+- **ULTIMATE optimization!** Sodium+Iris blessing, together with 20+ optimization mods to optimize your gaming experience!
+- **Chat report? NO!** Say goodbye to poor chat reporting with the _NoChatReports_ mod!
 - **Better elytra!** Let the _Elytra Chestplate Swapper_ and _Easy Elytra Take Off_ give you a good flying experience!
 - **Where is my map?** Using Xaero's map, the mini-map is hidden by default, giving you a clean game interface!
-- [EX] **Immersive gaming experience!** With _Sound Physics_, _Presence Footsteps_ and _Ambient Sounds_, you get an elegant, laid-back gameplay!
+- [EX] **IMMERSIVE gaming experience!** With _Sound Physics_, _Presence Footsteps_ and _Ambient Sounds_, you get an elegant, laid-back gameplay!
 - [EX] **Shh~ You don't know this yet, yeah?** Use the _Tips_ mod to learn a little about Minecraft from the loading screen!
 - [EX] **Everything is under control!** A variety of information display modules work together to make your day perfect!
-- [EX] (To be perfected) **No Optifine, Better than Optifine!**
+- [EX] (To be perfected) **No Optifine, BETTER than Optifine!**
 ## 🎮 DEMO
 |  |Hardware model|
 |--|--|
