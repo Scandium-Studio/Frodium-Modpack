@@ -19,7 +19,7 @@ Frodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听�
 ## 🎉 特色
 > 标有 [EX] 的为扩展版独有
 
-Frodium 以实用为本，在原版基础上拓展了大量丰富游戏体验的功能：
+Frodium 以实用为本，在[原版*](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium 目前仅支持 Fabric 1.19.3，1.19.4 升级工作正在进行中。")基础上拓展了大量丰富游戏体验的功能：
 
 - **全 Masa 支持！** 使用 _Tweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica_ ，使您对的世界了如指掌！
 - **全 Carpet 支持！** 让各种有趣的功能助您一臂之力！
