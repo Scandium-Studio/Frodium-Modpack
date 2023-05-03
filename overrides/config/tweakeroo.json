@@ -215,7 +215,7 @@
   },
   "Internal": {
     "flySpeedPreset": 0,
-    "gammaValueOriginal": 0.5,
+    "gammaValueOriginal": 1.0,
     "hotbarScrollCurrentRow": 3,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
     "snapAimLastYaw": 0.0
@@ -735,7 +735,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": false,
+    "tweakGammaOverride": true,
     "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,

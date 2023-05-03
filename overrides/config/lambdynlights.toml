@@ -116,4 +116,8 @@ mode = "fancy"
 				spider = true
 				wither = true
 				panda = true
+				guardian = true
+
+			[light_sources.settings.entities.sit]
+				entity_sit = true
 

@@ -19,14 +19,14 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
-gamma:1.0
+gamma:0.5
 renderDistance:8
 simulationDistance:5
 entityDistanceScaling:1.0
@@ -38,8 +38,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip","file/FreshAnimations_v1.8.zip","continuity:default","continuity:glass_pane_culling_fix","betterbeds:fancybeds","file/§l不死图腾皮肤包.zip","file/Frodium Resources"]
-incompatibleResourcePacks:["file/Stay_True_1.19.zip","file/FreshAnimations_v1.8.zip","file/§l不死图腾皮肤包.zip"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","betterbeds:fancybeds","file/Frodium Resources"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
 soundDevice:""
@@ -117,7 +117,7 @@ key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.0
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_key.antighost.reveal:key.keyboard.g
 key_auditory.sound_reload_key:key.keyboard.unknown
-key_key.autofish.open_gui:key.keyboard.v
+key_key.autofish.open_gui:key.keyboard.apostrophe
 key_key.carry.desc:key.keyboard.unknown
 key_key.chesttracker.opengui:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
@@ -149,7 +149,6 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.modmenu.open_menu:key.keyboard.unknown
-key_panorama.keybinds.screenshot:key.keyboard.f4
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.replaymod.playeroverview:key.keyboard.b
 key_key.replaymod.lighting:key.keyboard.z
@@ -169,7 +168,7 @@ key_key.replaymod.positionkeyframe:key.keyboard.i
 key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
 key_key.replaymod.timekeyframe:key.keyboard.o
 key_key.replaymod.bothkeyframes:key.keyboard.unknown
-key_key.trade_cycling.cycle_trades:key.keyboard.c
+key_key.trade_cycling.cycle_trades:key.keyboard.v
 key_key.whereisit.finditem:key.keyboard.y
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.backslash
@@ -203,7 +202,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.equal
 key_iris.keybind.shaderPackSelection:key.keyboard.minus
 soundCategory_master:1.0
-soundCategory_music:0.08098591549295775
+soundCategory_music:0.7992957746478874
 soundCategory_record:1.0
 soundCategory_weather:0.6562819704295424
 soundCategory_block:0.7948637096209096
