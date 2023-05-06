@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   
-### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md)
+### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-EN.md)
 
 </div>
 
@@ -50,3 +50,8 @@ Frodium 以实用为本，在[原版*](https://github.com/WForst-Breeze/Frodium-
 > 如：**HMCL PCL2 BakaXL MultiMC**
 
 对于扩展版，请直接在 Release 中下载即可；对于基础版，请在文首单击绿色背景的“Lite”后进行下载
+
+---
+<div align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</div>
