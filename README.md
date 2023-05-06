@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   
-### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-en.md)
+### **[简体中文]** [[English]](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-EN.md)
 
 </div>
 
