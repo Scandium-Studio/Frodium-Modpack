@@ -40,3 +40,8 @@ Based on practicality, Frodium has expanded a large number of functions that enr
 ## 💾 Download
 The modpack is in MCBBS format, so most launchers are supported for installation! Drag the modpack into the launcher's window for automatic installation!
 > eg: **HMCL PCL2 BakaXL MultiMC**
+
+---
+<div align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</div>
