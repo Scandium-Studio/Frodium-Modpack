@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "感谢您对 Frodium 的关注和支持！您的首个 Issue 将在一周内给予答复并完成初步处理，感谢您的支持和理解。"
+        pr-message: "感谢您对 Frodium 的贡献！您的首个 Pull Request 将在一周内给予答复并完成初步审查，感谢您的支持和理解。"
