@@ -5,6 +5,7 @@
 ![Issues](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge)
 ![Mods Count](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
 ![Latest Version](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
+[![Frodium Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge)](https://gitee.com/wforstbreeze/Frodium-Modpack-Gitee)
 [![Frodium Lite](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
 </div>
 <div align="center">
