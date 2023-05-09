@@ -3,7 +3,7 @@
   "manifestVersion": 1,
   "name": "Frodium 1.2.1",
   "version": "1.2.1",
-  "author": "WForst Breeze, Scandium Studios",
+  "author": "Scandium Studios",
   "overrides": "overrides",
   "minecraft": {
     "version": "1.19.3",
