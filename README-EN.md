@@ -12,7 +12,7 @@ Frodium is committed to adding extremely good optimization and double beautifica
 ## 🎉 Features
 > Items marked with [EX] are exclusive to the Extended Edition
 
-Based on practicality, Frodium has expanded a large number of functions that enrich the game experience on the basis of the [vanilla game](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium currently only supports Fabric 1.19.3. The upgrade of 1.19.4 is undergoing in an orderly manner."):
+Based on practicality, Frodium has expanded a large number of functions that enrich the game experience on the basis of the [vanilla game](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium currently only supports Fabric 1.19.3. The upgrade of 1.20 is postponed."):
 
 - **Full MASA Support!** Use _Tweakeroo, Tweak My Cilent, Oh My Minecraft Cilent, Masa Gadget, Mini HUD, Item Scroller, Litematica_ to make you know the world well!
 - **Full CARPET Support!** Let various fun features help you!
