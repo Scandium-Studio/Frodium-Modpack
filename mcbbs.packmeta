@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.2.1",
-  "version": "1.2.1",
+  "name": "1.19.3 扩展包",
+  "version": "1.2.2",
   "author": "Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -77,7 +77,7 @@
     },
     {
       "path": "config/beenfo.json",
-      "hash": "2dab2e047374dc1c04846ffb1c94448800cab92b",
+      "hash": "4f2711b97b447c2b705d6c39f285d6b5f11e510a",
       "force": true,
       "type": "addon"
     },
@@ -317,7 +317,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "53ed9c580d272934d237bd95685dc84cc2a1aabf",
+      "hash": "ccdfaa587defc3dd7633dbcf07108174981e4c24",
       "force": true,
       "type": "addon"
     },
@@ -335,7 +335,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "8fb0b3a268ddda81835784188090a244357dbd54",
+      "hash": "6777c69ca1fbdfc21b3915d4effdaa8a6e49c6c4",
       "force": true,
       "type": "addon"
     },
@@ -377,7 +377,13 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "296f4976f63e70d6bc3211edf354ccf0af23c4a9",
+      "hash": "c3fc3e9dc5412c671d945ba95562cb9b06a883f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/interactic.json5",
+      "hash": "237140f3ce3e95a48ca35c5b58e9abb705f5e184",
       "force": true,
       "type": "addon"
     },
@@ -395,7 +401,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "3e6d96c7651d8f31559063894b256067aba14ce0",
+      "hash": "dbc6c3d9787c0a9a4d9f53642e5ea60f031312e6",
       "force": true,
       "type": "addon"
     },
@@ -408,6 +414,18 @@
     {
       "path": "config/itemscroller.json",
       "hash": "4e7d6a1df42630d46317e88d59a9e86e2f0288bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/itemswapper-server-cache.json",
+      "hash": "07bb3a9ef2f8b5c21f8d3b9c948584d2660ff4ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/itemswapper.json",
+      "hash": "26386c28416d6d33bbf69a667c222e4a2c5064e6",
       "force": true,
       "type": "addon"
     },
@@ -425,13 +443,13 @@
     },
     {
       "path": "config/jade/plugins.json",
-      "hash": "7be8e6206f0376c0c7a38d1023fa2d8ed80ae458",
+      "hash": "d5afea31e4780a25a6fd272589d9ee40a3a5709f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/jade/sort-order.json",
-      "hash": "3875ff958053e1044f8447ae9f80f8e71d6d53b8",
+      "hash": "7d8249011abbdeda816f52baffae02f82cb0de19",
       "force": true,
       "type": "addon"
     },
@@ -473,7 +491,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "83218890973818703a5e51d29471da4c27f2638e",
+      "hash": "b8a6be1028a04e0816ab71b3da35426070e26849",
       "force": true,
       "type": "addon"
     },
@@ -563,6 +581,12 @@
     },
     {
       "path": "config/litematica/litematica______dim_minecraft_overworld.json",
+      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica______dim_minecraft_the_end.json",
       "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
       "force": true,
       "type": "addon"
@@ -718,6 +742,12 @@
       "type": "addon"
     },
     {
+      "path": "config/minihud/_____dim_minecraft_the_end.json",
+      "hash": "ab4db6ce8fb0494926455e6c67edc4e5182de96f",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/minihud/_________________b__.json",
       "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
       "force": true,
@@ -767,7 +797,7 @@
     },
     {
       "path": "config/moreculling.toml",
-      "hash": "f44aa33f6585af54968cc6259917643a6a823c71",
+      "hash": "a2b62e6af80c5e7791fd5879409a2f00872d5a75",
       "force": true,
       "type": "addon"
     },
@@ -832,6 +862,12 @@
       "type": "addon"
     },
     {
+      "path": "config/ost-overhaul.json",
+      "hash": "36f7bcbf6b7ac40a5490325f456c716859e33dd2",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/panorama.json",
       "hash": "c46c78623c9bc6e309c09cbb26b0653651e9b52d",
       "force": true,
@@ -839,7 +875,7 @@
     },
     {
       "path": "config/peek/peek.properties",
-      "hash": "de45dffaed4b706273acfd5795fd9cae97831c99",
+      "hash": "61519f94d537895e0a627ac5f3942e2bde31da1f",
       "force": true,
       "type": "addon"
     },
@@ -887,13 +923,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "61d5ca71fbab1793db8962498beda0d0639f742e",
+      "hash": "fdbf7ba76ad442f45e432d1955e57feec176e247",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "ccd66fa7b38571ec3179fee2f99557fb1288231f",
+      "hash": "c5bece68fe414995633fe1fb3e8580dd39c038f7",
       "force": true,
       "type": "addon"
     },
@@ -941,7 +977,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "64b85f3d05264ffc2b960d72b331903dc8bdb675",
+      "hash": "3d4718956bfa8a0957d56b971f03ec8811cfbdbb",
       "force": true,
       "type": "addon"
     },
@@ -971,13 +1007,13 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "b459497d60b2c71d52fe1d0a9d522e130b20deda",
+      "hash": "8a875d81427d69d6970c2fb92be04c84043425f4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "021e71ad691112e08d059106dcfc040ed1111263",
+      "hash": "a03b1be9cc9aa22c0fe0e54cc5c7ebf5c7e5eca6",
       "force": true,
       "type": "addon"
     },
@@ -1013,7 +1049,13 @@
     },
     {
       "path": "config/trade_cycling/trade_cycling.properties",
-      "hash": "0768f6e4e4280b1872e45c6627a42df0a3bac3f7",
+      "hash": "3d9a7a62a7d02fffad907bbaaa8e5f090d009e6f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/travelerstitles-fabric-1_19_3.toml",
+      "hash": "10cce77c675a60099698a3e21cbe11817c964922",
       "force": true,
       "type": "addon"
     },
@@ -1025,7 +1067,7 @@
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "9290475a85acba0b55353abc74e26fe9bdd9a97b",
+      "hash": "4b4568e0d5b9ce32c7b23fe9a4e7f4e8b0f559f7",
       "force": true,
       "type": "addon"
     },
@@ -1061,7 +1103,7 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "6d111633b79ea743dd420501689638a296201fa3",
+      "hash": "ca1d0243fe388f7640981275757c58bdd828b4f6",
       "force": true,
       "type": "addon"
     },
@@ -1079,7 +1121,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "fd0f5f7c710245447792496a9f7ef9cf4d8a4bea",
+      "hash": "6c7e53ec8cbe289292b673402d68f8137f505ce9",
       "force": true,
       "type": "addon"
     },
@@ -2104,6 +2146,30 @@
       "type": "addon"
     },
     {
+      "path": "mods/Debug\u0026Optional/[Debug] panorama-1.3.0.jar.disabled",
+      "hash": "51e47e3e3eb7b96f0c05aead990296912feb8eae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Debug\u0026Optional/[元素周期表][甲烷][不开光影请启用] Methane - 1.6.3.jar.disabled",
+      "hash": "1fc3b763194f66d1225d369d7405dbf677b64149",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Debug\u0026Optional/[元素周期表][磷][与星光冲突] phosphor-fabric-mc1.19.x-0.8.1.jar.disabled",
+      "hash": "2dd6f771ba5878d81892b9487f35340e94c87a1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/PLEASE DO NOT UPDATE THE MOD LOADER VERSION AND FABRIC API VERSION OF THIS MODPACK, OTHERWISE THE GAME WILL CRASH!.txt",
+      "hash": "e8282e730e2741372a9da140ff6becad141d94bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[api] architectury-7.0.66-fabric.jar",
       "hash": "d32eff8c8a6f4ac04480e13dbc175233675eb0ff",
       "force": true,
@@ -2218,12 +2284,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/[Debug] panorama-1.3.0.jar.disabled",
-      "hash": "51e47e3e3eb7b96f0c05aead990296912feb8eae",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[Masa][MasaGadget] MasaGadget-3.0.0-beta f5856ee.jar",
       "hash": "8cecf323b5f0e8cad5caf71d1988669e846d0576",
       "force": true,
@@ -2302,8 +2362,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/[Optifine功能][连接纹理] continuity-2.0.2+1.19.3-build.2.jar",
-      "hash": "f0ee7ff6d398047b6d38e31fdbd88a54fb898e2c",
+      "path": "mods/[Optifine功能][连接纹理] continuity-3.0.0-beta.2+1.19.3.jar",
+      "hash": "229057727abf35e0469527b94d84d96e1770c156",
       "force": true,
       "type": "addon"
     },
@@ -2458,6 +2518,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[信息显示][村庄声望] your-reputation-0.2.1+jade.1.19.jar",
+      "hash": "17f863fb5b2c732a6d4b6afaddc36788c7c31821",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[信息显示][标识符翻译] Identifier-Translation-1_1.19.3.jar",
       "hash": "1898669d8dc77c721515fdf0346c84f6dd29db5d",
       "force": true,
@@ -2530,18 +2596,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/[元素周期表][甲烷][不开光影请启用] Methane - 1.6.3.jar.disabled",
-      "hash": "1fc3b763194f66d1225d369d7405dbf677b64149",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[元素周期表][磷][与星光冲突] phosphor-fabric-mc1.19.x-0.8.1.jar.disabled",
-      "hash": "2dd6f771ba5878d81892b9487f35340e94c87a1c",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[元素周期表][钍] thorium-1.4.0.jar",
       "hash": "dc5d3176cf60ee669ef0f5ca0fc151cd403aa64a",
       "force": true,
@@ -2608,7 +2662,7 @@
       "type": "addon"
     },
     {
-      "path": "mods/[功能][REI交易信息]RoughlyEnoughTrades-1.19.3-1.0.jar",
+      "path": "mods/[功能][REI交易信息] RoughlyEnoughTrades-1.19.3-1.0.jar",
       "hash": "8e8c2a499869408e50a5df09d4fa439188b13559",
       "force": true,
       "type": "addon"
@@ -2686,6 +2740,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][快速物品切换] itemswapper-fabric-0.4.0-mc1.19.3.jar",
+      "hash": "8cc8bcd219f8c8d2733caa84c8f6a3a506f3c9fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][搬运] carryon-fabric-1.19.3-2.0.1.9.jar",
       "hash": "e692a630f41b3b14dcd6567c5f12bda3bec59bf7",
       "force": true,
@@ -2710,12 +2770,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/[功能][物品物理掉落] ItemPhysicLite_FABRIC_v1.6.0_mc1.19.3.jar",
-      "hash": "abf6dfbb9c3efda2965e605b1966f03447a2e164",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[功能][直接丢弃] ctrlq-fabric-mc1.19.3+-1.9.jar",
       "hash": "937eaf746aa4e975a8cc2a6fec53d40b3049bc58",
       "force": true,
@@ -2724,6 +2778,12 @@
     {
       "path": "mods/[功能][箱子追踪] chesttracker-1.19.3-1.1.19.jar",
       "hash": "b5d408b71ff3806a7c9ad7caf23597e62303bc80",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能][综合功能] interactic-0.1.11+1.19.3.jar",
+      "hash": "b8f5b28fafc659e621229b7b3b48fa05d51ac828",
       "force": true,
       "type": "addon"
     },
@@ -2836,6 +2896,18 @@
       "type": "addon"
     },
     {
+      "path": "mods/[美化][Duang] bounced-1.19.3-1.0.4.jar",
+      "hash": "16f6ab56e83228a596e62a4e6d740df0c4bff2ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[美化][OST扩展] ostOverhaul-0.2.6-1.19.3.jar",
+      "hash": "c148cfa64b46153a8bf5569ee140afb78d7b146c",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[美化][传说工具提示] LegendaryTooltips-1.19.3-fabric-1.4.1.jar",
       "hash": "8b65b06742c46eabd6419fc1e0771ebffeacdbd0",
       "force": true,
@@ -2874,6 +2946,12 @@
     {
       "path": "mods/[美化][更多动画] notenoughanimations-fabric-1.6.2-mc1.19.3.jar",
       "hash": "8a658e93c93a1cfc7ca19a2c03928becb8eeaea2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[美化][深色加载界面] dark-loading-screen-1.6.13.jar",
+      "hash": "418b155190fcf2d084710240f82e1846637cbe7c",
       "force": true,
       "type": "addon"
     },
@@ -2926,7 +3004,7 @@
       "type": "addon"
     },
     {
-      "path": "mods/[美化][进度截图]advancementscreenshot-fabric_1.19.3-3.9.jar",
+      "path": "mods/[美化][进度截图] advancementscreenshot-fabric_1.19.3-3.9.jar",
       "hash": "4e461ef151fbe1066a6296bb383705dc308bcea0",
       "force": true,
       "type": "addon"
@@ -2963,7 +3041,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "faf91603fa615ef3ce7e3c062c9ad2027fa0b16e",
+      "hash": "ea38a7f4ba38495e8ba17f4548d5c0e2f6e2a39e",
       "force": true,
       "type": "addon"
     },
@@ -2975,7 +3053,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "b3bf4e0dcfe1910712ea7854d60294ab2c1c826f",
+      "hash": "064daf29480a6f6619935a1321465ce29f30873e",
       "force": true,
       "type": "addon"
     },
@@ -3036,6 +3114,12 @@
     {
       "path": "resourcepacks/Frodium Resources/assets/chiselsandbits/textures/gui/container/modification_table.png",
       "hash": "747f296b7bf09e7ffaea14b4e94497f9a5260a33",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/ias/textures/gui/iasbutton.png",
+      "hash": "9ea689260a6a7f8ec858c76acfdf51921959295a",
       "force": true,
       "type": "addon"
     },
@@ -3196,6 +3280,18 @@
       "type": "addon"
     },
     {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/texts/credits.json",
+      "hash": "f64a7bd627b37b99961ef54eac21edcd2da9a9fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/texts/postcredits.txt",
+      "hash": "b99e04a491b1ba44a2b8cf68b62ab3b6ea2e8815",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/texts/splashes.txt",
       "hash": "b563fc39b2ef5bf73906c2344beb1e3429fbee4a",
       "force": true,
@@ -3209,31 +3305,31 @@
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/adventure.png",
-      "hash": "c96d8cbe83dec466ccf6b2ac4310a36a3dac048f",
+      "hash": "04dc07afc9ba8b003d0c79ea208812252029c1ea",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/end.png",
-      "hash": "17e052b77f5b769fb7202b26f64c04a9da4abcff",
+      "hash": "7fb700de73fbf34f805e2c1f1830379331ebad70",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/husbandry.png",
-      "hash": "18075e41cf3850eb4eb1c904479ddc9e87a4c315",
+      "hash": "ecf5fb3cf4af518bcf622395a1fcd308bf2a4c0f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/nether.png",
-      "hash": "3557a06a2f832d309071edae5d2a1be5ab6d88d7",
+      "hash": "a08fcfd56f8c0f1f89ca552e5e91ef3a2c5f7fa7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/stone.png",
-      "hash": "c65ec807fd64bfa8610bea4dfee93c206bac0271",
+      "hash": "df0d3daade6471f5aa652bdbd1ba02bce01efd4f",
       "force": true,
       "type": "addon"
     },
@@ -3251,7 +3347,7 @@
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/window.png",
-      "hash": "fd6a6105aa741cdfd82aa75d34cdb17fcf49c5a1",
+      "hash": "bd82d033fd9aef5d85b8f998fab2449ef77e22d3",
       "force": true,
       "type": "addon"
     },
@@ -3485,7 +3581,7 @@
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/report_button.png",
-      "hash": "1e00505c4eb1f6066263ce432038c154d76cef62",
+      "hash": "4e1eef9ecfdb5861a8ecc68051441af0ca163b97",
       "force": true,
       "type": "addon"
     },
@@ -3533,37 +3629,37 @@
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_0.png",
-      "hash": "046606f3c5980afd72d1309c2c93b522aa757b53",
+      "hash": "e3d18f8db26b9940146d685ccba5ce2add6d01af",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_1.png",
-      "hash": "08365ee76820995ea72ec2de193b7056d660ac5d",
+      "hash": "d223b0d216ece34633857f481e2a5b9f4e803fb6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_2.png",
-      "hash": "1524a33ab7a4ebde8679d7a2aea5d0d6cbac67df",
+      "hash": "fee1cc7ddc9e0a83d029e75e66f45da5bd4e30c4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_3.png",
-      "hash": "628ed30af91790721a8064fdb50b7dbb2e38459d",
+      "hash": "00b91722e4fefd9c96dc2206f635557f7d704058",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_4.png",
-      "hash": "6b974850fb84dd71b79f95c0a9a1ba424215c16c",
+      "hash": "8e7cb10e82915717cac59d39eb010913f39fbdb3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_5.png",
-      "hash": "cb1714f832789472292c8943ff3ddc93d50e746b",
+      "hash": "c889a22ceaa9f4d70b6cf60a9cdae0d265f16b72",
       "force": true,
       "type": "addon"
     },
@@ -3995,7 +4091,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryShaders_v4.6.zip.txt",
-      "hash": "3f516578bd8b100a1c9bc1392513074c56dcde1e",
+      "hash": "4908a80e8bde2f6e4af8bf106f06b97d01566d67",
       "force": true,
       "type": "addon"
     }

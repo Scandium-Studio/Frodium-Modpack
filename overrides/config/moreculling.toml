@@ -10,7 +10,7 @@ useItemFrame3FaceCulling = true
 itemFrame3FaceCullingRange = 12.0
 leavesCullingMode = "VERTICAL"
 leavesCullingAmount = 4
-includeMangroveRoots = false
+includeMangroveRoots = true
 powderSnowCulling = true
 useOnModdedBlocksByDefault = true
 

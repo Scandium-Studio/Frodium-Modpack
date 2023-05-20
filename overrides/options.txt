@@ -26,7 +26,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
-gamma:0.5
+gamma:1.0
 renderDistance:8
 simulationDistance:5
 entityDistanceScaling:1.0
@@ -38,7 +38,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","betterbeds:fancybeds","file/Frodium Resources"]
+resourcePacks:["vanilla","fabric","file/Stay_True_1.19.zip","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","betterbeds:fancybeds","file/Frodium Resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -46,7 +46,7 @@ soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
-textBackgroundOpacity:0.5
+textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -102,7 +102,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
@@ -142,6 +142,8 @@ key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.imblocker.switchIMEState:key.keyboard.f6
+key_key.interactic.pickup_item:key.keyboard.unknown
+key_key.itemswapper.itemswitcher:key.keyboard.x
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2

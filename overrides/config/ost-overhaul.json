@@ -1,0 +1,257 @@
+{
+  "Sounds": {
+    "minecraft:music.overworld.frozen_peaks": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.frozen_peaks",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.menu": {
+      "condition0": {
+        "playOnMenu": true,
+        "randUntilNextSong": 200.0,
+        "priority": 5.0,
+        "forceSwitchIn": true
+      }
+    },
+    "minecraft:music.overworld.deep_dark": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.deep_dark",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.grove": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.grove",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.dragon": {
+      "condition0": {
+        "randUntilNextSong": 1000.0,
+        "priority": 3.0,
+        "playOnDragon": true,
+        "dimension": "minecraft:the_end",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.lush_caves": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.lush_caves",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.under_water": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 3.0,
+        "isUnderWater": true,
+        "biomeTags": [
+          "minecraft:plays_underwater_music"
+        ],
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.nether.crimson_forest": {
+      "condition0": {
+        "biome": "minecraft:music.nether.crimson_forest",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "ostoverhaul:the_ancient_city": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:ancient_city",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.meadow": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.meadow",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.credits": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 10.0,
+        "playOnCredits": true,
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.dripstone_caves": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.dripstone_caves",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.nether.nether_wastes": {
+      "condition0": {
+        "biome": "minecraft:music.nether.nether_wastes",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.jagged_peaks": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.jagged_peaks",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.jungle_and_forest": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.jungle_and_forest",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.swamp": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.swamp",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.nether.soul_sand_valley": {
+      "condition0": {
+        "biome": "minecraft:music.nether.soul_sand_valley",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "ostoverhaul:minecraft.bastion_remnant": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:bastion_remnant",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.end": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 0.0,
+        "dimension": "minecraft:the_end"
+      }
+    },
+    "minecraft:music.overworld.snowy_slopes": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.snowy_slopes",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "ostoverhaul:frosty": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "temp": {
+          "compareWith": "lessThan",
+          "number": 0.15
+        },
+        "dimension": "minecraft:overworld"
+      },
+      "condition1": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "temp": {
+          "compareWith": "equals",
+          "number": 0.15
+        },
+        "dimension": "minecraft:overworld"
+      },
+      "condition2": {
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0,
+        "precipitation": "snow",
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "ostoverhaul:minecraft.stronghold": {
+      "condition0": {
+        "randUntilNextSong": 600.0,
+        "priority": 2.0,
+        "structure": "minecraft:stronghold",
+        "forceSwitchIn": true,
+        "forceSwitchOut": true
+      }
+    },
+    "minecraft:music.overworld.old_growth_taiga": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.old_growth_taiga",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.game": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 0.0,
+        "dimension": "minecraft:overworld"
+      }
+    },
+    "minecraft:music.nether.basalt_deltas": {
+      "condition0": {
+        "biome": "minecraft:music.nether.basalt_deltas",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.overworld.stony_peaks": {
+      "condition0": {
+        "biome": "minecraft:music.overworld.stony_peaks",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "minecraft:music.nether.warped_forest": {
+      "condition0": {
+        "biome": "minecraft:music.nether.warped_forest",
+        "randUntilNextSong": 12000.0,
+        "priority": 1.0
+      }
+    },
+    "ostoverhaul:claustrophobic": {
+      "condition0": {
+        "randUntilNextSong": 12000.0,
+        "priority": 3.0,
+        "y": {
+          "compareWith": "lessThan",
+          "number": 61.0
+        },
+        "hasSkyAccess": false,
+        "dimension": "minecraft:overworld"
+      }
+    }
+  },
+  "Discs": {
+    "shock": {
+      "LengthInSeconds": 127,
+      "ComparatorOutput": 0
+    },
+    "weird_realm": {
+      "LengthInSeconds": 120,
+      "ComparatorOutput": 0
+    }
+  },
+  "UpdateTicks": 10,
+  "BlockRange": 0,
+  "EntityRange": 0,
+  "AddBiomeSounds": true,
+  "UpdateAutomatically": true,
+  "Version": "0.2",
+  "HasForceSwitchIn": false
+}

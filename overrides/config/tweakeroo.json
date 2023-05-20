@@ -735,7 +735,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": false,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": true,
+    "tweakGammaOverride": false,
     "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
