@@ -4,15 +4,15 @@
     "autoSyncEntityData": true,
     "debug": false,
     "renderZombieVillagerConvertTime": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
         "keys": ""
       }
     },
     "renderTradeEnchantedBook": {
-      "enabled": true,
+      "enabled": false,
       "hotkey": {
-        "keys": ""
+        "keys": "LEFT_CONTROL,B"
       }
     },
     "searchMobSpawnPoint": {

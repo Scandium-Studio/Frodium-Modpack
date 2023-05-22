@@ -405,14 +405,6 @@ Also try Minecraft Dungeons!
 Vanilla!
 May contain traces of citrus!
 Zoglin!?
-Black lives matter!
-Be anti-racist!
-Learn about allyship!
-Speak OUT against injustice and UP for equality!
-Amplify and listen to BIPOC voices!
-Educate your friends on anti-racism!
-Support the BIPOC community and creators!
-Stand up for equality in your community!
 [this splash text is now available]
 Contains simulated goats!
 Home-made!
@@ -856,17 +848,17 @@ Frodium, I think!
 Frodium is not a chemical element!
 Frodium is not a fan of political correctness!
 Absolutely no procrastination!
-Frodium advocates the open-source movement!
+Frodium advocates the open-source spirit!
 Leave the politics to the politicians!
 把政治留给政治家！
 循声守卫还是监守者？
-Warden or Wander?
+Color or Colour?
 ChatGPT 不会替代 Frodium！
 ChatGPT will not replace Frodium!
 老婆饼里没有老婆！
 There are no eggs in eggplant!
 自古灭队先灭黄！
-Destroy Yellow to make you have advantages in bed wars!
+Destroy Yellow!
 躲猫猫躲的不是猫！
 Play hide and seek with your pet!
 嗨皮咳嗽！
@@ -878,7 +870,7 @@ Frodium is a radioactive modpack!
 八百标兵奔北坡！
 She sells seashells by the seashore!
 完全免费！
-Completely free of charge!
+Completely free!
 ChatGPT 提供翻译支持！
 ChatGPT provides translation support!
 人工校对！
@@ -896,3 +888,46 @@ Also try Lunar Client!
 仅代表个人意见！
 This is just a personal opinion!
 <!--我是一条注释，我什么也不知道-->
+我要给 Frodium 完整的一生！
+I will give Frodium a full life!
+客户端与服务端！
+Client and server!
+也试试 Minecraft Legends 吧！
+Also try Minecraft Legends!
+团结主世界！
+Unite the overworld!
+现已加入肯德基疯狂星期四！
+Now join KFC Crazy Thursday!
+V ME 50!
+UTF-8 是第一生产力！
+UTF-8 is primary productivity!
+Java!
+Python!
+C++!
+C#!
+C!
+GO!
+JavaScript!
+PHP!
+Ruby!
+Scala!
+TypeScript!
+mcfunction!
+Now on Github!
+现在在Github上！
+律师函警告！
+DMCA Warning!
+掉落物旋转2小时.mp4
+Item spins for 2 hours.mp4
+现在 Not Enough Crashes 是可选模组！
+Not Enough Crashes is optional mod now!
+醒醒，你QQ响了！
+Wake up! Your Discord is ringing!
+你也牵过手，是左手牵右手！
+You have held hands, is the left hand to held the right hand!
+联合政府最高动员！
+United Earth Government highest mobilization!
+长单词恐惧症！
+Hippopotomonstrosesquippedaliophobia!
+来一份氧化的涂蜡切制铜台阶！
+A WAXED OXIDIZED CUT COPPER SLAB, Please!
