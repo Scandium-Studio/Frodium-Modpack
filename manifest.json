@@ -1,15 +1,15 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Frodium 1.2.2",
-  "version": "1.2.2",
+  "name": "Frodium 1.3.0 (Public Test Beta 1)",
+  "version": "1.3.0 Beta 1",
   "author": "Scandium Studios",
   "overrides": "overrides",
   "minecraft": {
-    "version": "1.19.3",
+    "version": "1.20",
     "modLoaders": [
       {
-        "id": "fabric-0.14.14",
+        "id": "fabric-0.14.21",
         "primary": true
       }
     ]

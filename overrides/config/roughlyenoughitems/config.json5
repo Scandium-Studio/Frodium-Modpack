@@ -134,7 +134,8 @@
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
-			"cachingFastEntryRendering": false
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
 		}
 	},
 	"appearance": {

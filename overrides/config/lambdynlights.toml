@@ -22,9 +22,11 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				panda = true
 				bee = true
 				axolotl = true
 				egg = true
+				zoglin = true
 				arrow = true
 				cow = true
 				magma_cube = true
@@ -91,6 +93,7 @@ mode = "fancy"
 				cat = true
 				zombie = true
 				ender_pearl = true
+				guardian = true
 				ghast = true
 				sheep = true
 				player = true
@@ -115,9 +118,6 @@ mode = "fancy"
 				cod = true
 				spider = true
 				wither = true
-				panda = true
-				guardian = true
-				zoglin = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
