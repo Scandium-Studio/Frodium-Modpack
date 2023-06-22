@@ -57,7 +57,7 @@
 			}
 		},
 		// Declares whether REI is visible.
-		"overlayVisible": false,
+		"overlayVisible": true,
 		"cheatingStyle": "GRAB",
 		"motion": {
 			"favoritesAnimation": true
@@ -68,7 +68,8 @@
 			"shouldFilterDisplays": true,
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}",
-				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+				"{id:\"roughlyenoughitems:basic\",rule:{}}",
+				"{id:\"roughlyenoughitems:hidden_from_recipe_viewers\",rule:{}}"
 			],
 			"filteringQuickCraftCategories": { },
 			"filteredStacks": []

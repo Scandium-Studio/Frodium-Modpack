@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","file/Stay_True_1.20_beta.zip","file/GUI-SimpleStylized_2.1-1.20.zip","file/Frodium Resources","file/Frodium Resources §cE§ex§at§3r§9a"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -136,6 +136,7 @@ key_key.craftingtweaks.decompressAll:key.keyboard.unknown
 key_key.craftingtweaks.refill_last:key.keyboard.tab
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
+key_key.ecs.swap:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.x

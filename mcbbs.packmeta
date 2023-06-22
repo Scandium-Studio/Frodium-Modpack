@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.3.0 (Public Test Beta 1)",
-  "version": "1.3.0 Beta 1",
+  "name": "Frodium 1.3.0 (Public Test Beta 2)",
+  "version": "1.3.0 Beta 2",
   "author": "Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -239,7 +239,7 @@
     },
     {
       "path": "config/continuebutton/config.properties",
-      "hash": "74b105bbdd3b3f57ebb88dec88bc8cf68e388abb",
+      "hash": "96e5399279a21fd6580f821388baaa5c96385ac6",
       "force": true,
       "type": "addon"
     },
@@ -268,7 +268,79 @@
       "type": "addon"
     },
     {
+      "path": "config/craftingtweaks-common.toml.bak10",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak11",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak12",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak13",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak14",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak15",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak16",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak17",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak18",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak19",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/craftingtweaks-common.toml.bak2",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak20",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak21",
       "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
       "force": true,
       "type": "addon"
@@ -299,6 +371,18 @@
     },
     {
       "path": "config/craftingtweaks-common.toml.bak7",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak8",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak9",
       "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
       "force": true,
       "type": "addon"
@@ -389,7 +473,7 @@
     },
     {
       "path": "config/easyanvils-server.toml",
-      "hash": "8ab039a3329f31ea249d67472370dd3e2e8de091",
+      "hash": "813ce58b46c1d6d79ca34fa1a7379df024d06606",
       "force": true,
       "type": "addon"
     },
@@ -449,7 +533,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "5b22f60197ab41da968fe3e162f5f2fb88989e0c",
+      "hash": "f2013516e3c47d8887cf6ab939cc67b57514047a",
       "force": true,
       "type": "addon"
     },
@@ -461,7 +545,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "e37035ccd2b354984e1f4cc4adcd3bc2df882b30",
+      "hash": "f14721ad306bc427b1d4de1a10fb384f8a80de59",
       "force": true,
       "type": "addon"
     },
@@ -515,7 +599,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "c1b2296b3a33e24ee94500c3e7d86fbc261a17fd",
+      "hash": "774ff01daa6a2e0b9a25c575f2be862ed0f9e27b",
       "force": true,
       "type": "addon"
     },
@@ -538,14 +622,32 @@
       "type": "addon"
     },
     {
+      "path": "config/inventoryprofilesnext/养老就行别太肝了你都羊了心里还没点b数吗/villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
       "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
       "force": true,
       "type": "addon"
     },
     {
+      "path": "config/inventoryprofilesnext/测试世界/prev-villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/inventoryprofilesnext/测试世界/villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/iris.properties",
-      "hash": "3998d53c5939c5e04c9aef8f2fde843cdfeb8e16",
+      "hash": "0b598ed9c594e3285e3f72bb5e0df59c4c57af41",
       "force": true,
       "type": "addon"
     },
@@ -731,7 +833,7 @@
     },
     {
       "path": "config/litematica/litematica______dim_minecraft_overworld.json",
-      "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98",
       "force": true,
       "type": "addon"
     },
@@ -755,7 +857,7 @@
     },
     {
       "path": "config/litematica/litematica__________________b___dim_minecraft_overworld.json",
-      "hash": "21fed019300f4c0d9bb39edc95b5f3ce6c4ec0ef",
+      "hash": "6ce81dad7c32f838e8abffc1449c52e2dd7aaf32",
       "force": true,
       "type": "addon"
     },
@@ -773,7 +875,7 @@
     },
     {
       "path": "config/litematica.json",
-      "hash": "5407c6f5ae98f35de9eac5a87e62511e943f4046",
+      "hash": "94c85f4992df2e5df6371d25cebc8b8e782f1965",
       "force": true,
       "type": "addon"
     },
@@ -1049,7 +1151,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "3b70adb6baf2af0e1aa56bcf14508f8390434ce9",
+      "hash": "652f97f53dabebeeada035582da652847b4cc954",
       "force": true,
       "type": "addon"
     },
@@ -1085,7 +1187,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "9fc49ce72cffba090470fabfe4270ca1df1c4c70",
+      "hash": "fdca8eaa489f671c67ada2dc6191df1061b8111d",
       "force": true,
       "type": "addon"
     },
@@ -1097,13 +1199,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "c7c1213d43c5f25f92c90756646a8c72b454bc92",
+      "hash": "f65d327b349740418feb73463e73d62ebddae395",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "3b5f4d222d6c93212e9e6536963a731f79dc219b",
+      "hash": "a6c500105256e0b4d76d9c7f4cdc4c2d8cd6e445",
       "force": true,
       "type": "addon"
     },
@@ -1133,7 +1235,7 @@
     },
     {
       "path": "config/skinlayers.json",
-      "hash": "a9c360a5d3f5f66b4d9a7b62cb2723cfdda52177",
+      "hash": "adf51e37dc134068d806066ed3a25efb592f1557",
       "force": true,
       "type": "addon"
     },
@@ -1181,13 +1283,13 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "1ffe8c57b21a14cd760b93c4ddedaf8ae9479fb9",
+      "hash": "0ad69254680fa50e8b6357f1d549504df5515e7c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "3a27e5d39bb61984487e902128be6f1d439dd1b8",
+      "hash": "bd4135d80a0308c5b9742b2741e4b132c81736aa",
       "force": true,
       "type": "addon"
     },
@@ -1223,7 +1325,7 @@
     },
     {
       "path": "config/trade_cycling/trade_cycling.properties",
-      "hash": "0e08bfc938ff0126a9f337cf1dab3a7d06cd37ed",
+      "hash": "039eebcd7329767b95ccd1e8d0740631eab0bc31",
       "force": true,
       "type": "addon"
     },
@@ -1241,13 +1343,13 @@
     },
     {
       "path": "config/tweakermore.json",
-      "hash": "6de2334e3bc95ab37bae66e3853174530f3567c9",
+      "hash": "eba4175e0acf300b396aa35b421f53c5a513451f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tweakeroo.json",
-      "hash": "4b4568e0d5b9ce32c7b23fe9a4e7f4e8b0f559f7",
+      "hash": "118ff040d9be0c8447bc56827a56e612fd2eea2f",
       "force": true,
       "type": "addon"
     },
@@ -1283,7 +1385,7 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "c7fde18f50e3ebd7f774336642c770ca92501635",
+      "hash": "5b2e19039a38c0cbfccf006e3afff03f7defd801",
       "force": true,
       "type": "addon"
     },
@@ -1301,7 +1403,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "027c44c1811049e9ccd88daaa14ab8d01ea92480",
+      "hash": "878b79dbbf73a3954e48e3dc1e830e912a681471",
       "force": true,
       "type": "addon"
     },
@@ -2446,6 +2548,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[Debug] panorama-1.3.0.jar.disabled",
+      "hash": "3f23da4a6cfd74d8f98dcffdb917e6ee3e0fa493",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[Masa][MasaGadget] MasaGadget-3.2.308+2c7a07f-stable.jar",
       "hash": "91bbdadddd0be70c9433c78f2531b634bdc786d7",
       "force": true,
@@ -2572,6 +2680,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][流畅加载] smoothboot-fabric-1.19.4-1.7.0.jar",
+      "hash": "79a929f3f42c47722a2c247b80d052c6793b9f71",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][现代化修复] modernfix-fabric-5.0.1+mc1.20.jar",
       "hash": "eb5a39946ee9a978ad4e1867eca00cf86a042ed3",
       "force": true,
@@ -2614,6 +2728,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[信息显示][更好的统计信息] betterstats-2.10-alpha.1+1.20.1.jar",
+      "hash": "c2a1b1ffaa0149b3e90b853dfa7b28bca9f6a2fc",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[信息显示][村庄声望] your-reputation-0.2.3+jade.1.20.jar",
       "hash": "dda87ba126179189e6f18416b2ff3d1f99adc7ce",
       "force": true,
@@ -2640,6 +2760,12 @@
     {
       "path": "mods/[信息显示][苹果皮] appleskin-fabric-mc1.20-2.5.0.jar",
       "hash": "f01bcf9adbaaeb5f6b185864c0b879e8e3923991",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[信息显示][进度信息展示] advancementinfo-1.20-fabric0.83.0-1.3.1.jar",
+      "hash": "f9fec84bb07089fde690e227f79b0c519eb0437c",
       "force": true,
       "type": "addon"
     },
@@ -2704,6 +2830,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][BE搭桥] BridgingMod-1.20-v1.3.0.jar",
+      "hash": "3716f446a2a9834a6c937d1981312d6888c40dd0",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][c键放大] Zoomify-2.10.0.jar",
       "hash": "21a75350e0f2a904076d2af505a4b077b8ff6438",
       "force": true,
@@ -2758,8 +2890,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][存档置顶] cherishedworlds-fabric-6.1.0+1.20.1.jar",
+      "hash": "189c22e2e158a55a2f29eceec2e679906f366382",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][席地而坐] sit-1.20-24.jar",
       "hash": "0740abbaa0860195b8a2ddb8ca86c712cef2eabe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能][快捷潜影盒] quickshulker-1.4.0-1.20.jar",
+      "hash": "10670458f2b106ce97a58bc287816ea184924741",
       "force": true,
       "type": "addon"
     },
@@ -2782,6 +2926,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][游戏内账号切换] InGameAccountSwitcher-Fabric-1.20-8.0.2.jar",
+      "hash": "6c2d46a3ee31d6d10430b2747d5b42fb1b7a5862",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][物品切换器] itemswapper-fabric-0.4.0-mc1.20.jar",
       "hash": "266bbc647d5ea963c24f9f6ce2398cfc7349f113",
       "force": true,
@@ -2794,20 +2944,26 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][简单铁砧] EasyAnvils-v7.0.0-1.20-Fabric.jar",
+      "hash": "bf881c73f9bee982d223cac53976a999a7e7f333",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][继续游戏] continuebutton-1.1.1+1.20.jar",
       "hash": "e6db17d9d625725998dd3b2aa61e5b42909ee757",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/[功能][语言重载] language-reload-1.5.7+1.20.jar",
-      "hash": "5e69cd99068102861258cc3aa2be4958f732e278",
+      "path": "mods/[功能][自动钓鱼] autofish-1.20.jar",
+      "hash": "5ab60e061ea92fd9eb0e636f328f77b25102e41e",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "mods/[功能][身份验证] authme-7.0.1+1.20.jar",
-      "hash": "b61e03cd948d296e0e0dc811397e3c3317801e64",
+      "path": "mods/[功能][语言重载] language-reload-1.5.7+1.20.jar",
+      "hash": "5e69cd99068102861258cc3aa2be4958f732e278",
       "force": true,
       "type": "addon"
     },
@@ -2830,8 +2986,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][连锁挖掘] diggusmaximus-1.5.8-1.20.jar",
+      "hash": "78d3bab08aba52c898d1f6dd7807785f8d646f28",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][键位冲突显示] Controlling-fabric-1.20-12.0.2.jar",
       "hash": "a63a5b3bda73866bf2aa137563f7a641fcbb74ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能][鞘翅胸甲切换] elytra-chestplate-swapper-1.3.0-MC1.20.jar",
+      "hash": "56bcfba4c797a6759ae2701878bf1716915bcc7c",
       "force": true,
       "type": "addon"
     },
@@ -2896,6 +3064,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[美化][Duang] bounced-1.19.4-2.1.2.jar",
+      "hash": "bb32c846e264cc0b91633e2bad6acd1b5f2e42a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[美化][可视化工作台] VisualWorkbench-v7.0.0-1.20-Fabric.jar",
       "hash": "b3dcf2568ceb8a9a72124b5c54b94bb44140eab8",
       "force": true,
@@ -2934,6 +3108,18 @@
     {
       "path": "mods/[美化][更好的第三人称视角] BetterThirdPerson-Fabric-1.19-1.9.0.jar",
       "hash": "650f67b227e8beefe96f2db81edb01d65d3ecd0e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[美化][深色加载界面] dark-loading-screen-1.6.14.jar",
+      "hash": "c6ce1e2c34fe4a412183431ea6b323e5e6eaf8f0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[美化][物品模型修复] modelfix-1.10-fabric.jar",
+      "hash": "fd52ec87add371140066fc3ae95d68c83f8a6ee5",
       "force": true,
       "type": "addon"
     },
@@ -3011,7 +3197,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "c8fa3c6411df980772990edd2ad19502ed91813c",
+      "hash": "ada6d7906d7d72980a5f0f10c5df5d37961cea35",
       "force": true,
       "type": "addon"
     },
@@ -3023,799 +3209,19 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "a7793f6b48dbf513794d16e56eb9252f8c67346e",
+      "hash": "aa595a120e4e3ed36aeecac519b29e387d9cf733",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/3.2.6v_VisualEnchantments.zip",
+      "hash": "ffa0e070748717729c9019b25b1b7271947972cb",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/FreshAnimations_v1.8.zip",
-      "hash": "fe8ce470dbd6adb709417df85adce3c1f9aa2801",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/armorstatues/textures/gui/container/armor_stand/background.png",
-      "hash": "ec7210073f0bbd27695337f9b81c819f22009552",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/armorstatues/textures/gui/container/armor_stand/equipment.png",
-      "hash": "30a9941fb7ffcb049ab3ff95a712f0f7e30dabd3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/authme/textures/gui/widgets.png",
-      "hash": "615f7ce334ac595173a0ed8c997e003365e949ad",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/backslot/textures/gui/blank.png",
-      "hash": "9c82e0f02f44ec35d70c3e69932997c6c8a6744e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/backslot/textures/gui/empty_back_slot.png",
-      "hash": "4117c962244cd171cbc6bb20195431d6f81a28df",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/backslot/textures/gui/empty_belt_slot.png",
-      "hash": "7b39ea68f528db32db9f40ca1e5551b198eecaeb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/bountiful/textures/gui/container/new_new_board.png",
-      "hash": "7c230ba04d40a0c7f0ab531aeb4eeedfbf87ca01",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/bountiful/textures/gui/container/registry_picker.png",
-      "hash": "3f1ae8d80112e2ee93dc3c84964a83fb0f3dd547",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/capes/textures/gui/options.png",
-      "hash": "ea1cab4c9aabd4fe378c14d7850ab499d57cf7b3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/catalogue/textures/gui/checkbox.png",
-      "hash": "f9e12a0edc8e8840ab3fe385ba3ebdff28ff6f2e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/catalogue/textures/gui/icons.png",
-      "hash": "8f5266c383af92a4541ab4af257524fd193808e1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/left_button.png",
-      "hash": "570d6d717822cbd09590925251db70c70b1a4ed0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/left_button_disabled.png",
-      "hash": "dad534a49dce2f07f4d830f893dd4f20cb3098ee",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/left_button_highlight.png",
-      "hash": "730e15bc70e7853af33a225beb594c22f3e926ac",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/right_button.png",
-      "hash": "0385fba97025fb31e5694a0415f885830373e456",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/right_button_disabled.png",
-      "hash": "a1ddace9546fe7ff3f42cf3aa0f9d15055db8d2b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/right_button_highlight.png",
-      "hash": "ac5ec62daa15d0544a77f87bb6324776c131ff91",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/dark_mode/slot.png",
-      "hash": "a78639e0a805f2d2d7b4bdc6f4d4980093b75b0a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/gui_button_background.png",
-      "hash": "459e3366e10cee11ee5e6385893f7443048f8aca",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/left_button.png",
-      "hash": "570d6d717822cbd09590925251db70c70b1a4ed0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/left_button_disabled.png",
-      "hash": "dad534a49dce2f07f4d830f893dd4f20cb3098ee",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/left_button_highlight.png",
-      "hash": "730e15bc70e7853af33a225beb594c22f3e926ac",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/right_button.png",
-      "hash": "0385fba97025fb31e5694a0415f885830373e456",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/right_button_disabled.png",
-      "hash": "a1ddace9546fe7ff3f42cf3aa0f9d15055db8d2b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/right_button_highlight.png",
-      "hash": "ac5ec62daa15d0544a77f87bb6324776c131ff91",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chesttracker/textures/light_mode/slot.png",
-      "hash": "a78639e0a805f2d2d7b4bdc6f4d4980093b75b0a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chiselsandbits/textures/gui/container/bitbag.png",
-      "hash": "d92f37aeb04ffbf1a36a076646741234d57da544",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chiselsandbits/textures/gui/container/chisel_printer.png",
-      "hash": "0463fd201d770eebdd8eb7e4bf9a4d576da5a9e9",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/chiselsandbits/textures/gui/container/modification_table.png",
-      "hash": "747f296b7bf09e7ffaea14b4e94497f9a5260a33",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/compact_storage/textures/gui/chest.png",
-      "hash": "0d1107ceeca2cac0467af8b1c368537a5298b2b0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/compact_storage/textures/gui/chest_slots.png",
-      "hash": "e08368ef1fd05d6f20f0dd8a7ae713d52949889b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easymagic/textures/gui/container/enchanting_table_reroll.png",
-      "hash": "ba6bf958a9fae0bc792721407a11c1cd6d092f8c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/arrow_left.png",
-      "hash": "3fe820a385a6520a71912c72e2091c98cb914b7b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/arrow_right.png",
-      "hash": "0978348236f4eef591831f9d931175528fc1de02",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/container/arrow_button.png",
-      "hash": "259285cad18a572314d33e0ae630eeea2c89d965",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/container/auto_trader.png",
-      "hash": "09c15886b32a0f31832165b2aeee47b17bc8ffb7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/container/input_output.png",
-      "hash": "605dfa5457882fc6a5fec6b71f4f4a82e35b10be",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/container/jei_input_output.png",
-      "hash": "863fc67ea3f2209b297c6043ce9b81493df8f015",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/easy_villagers/textures/gui/container/output.png",
-      "hash": "1e9aa2f35473c660bc3891247e3b33e371342e4b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/emi/textures/gui/background.png",
-      "hash": "0850071a0c96f350091100707713fa4b86611f98",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/emi/textures/gui/config.png",
-      "hash": "9860b3e7777f24f4cef7a5f2586e5249117b84d3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/emi/textures/gui/widgets.png",
-      "hash": "6ce58210390f9442d0e50534381a4757f3f3b720",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/fabric/textures/gui/creative_buttons.png",
-      "hash": "948c687b07106a555f011b7de33b48c67b00df03",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/fwaystones/textures/gui/abyss.png",
-      "hash": "2c434304357835370f11b77a8a148104c47784bc",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/fwaystones/textures/gui/pocket_wormhole.png",
-      "hash": "c02e24cbb9946da446ca4736bda3a8c847bd5266",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/fwaystones/textures/gui/waystone.png",
-      "hash": "a6ea6739b0a35680aac6675859955e0d27fa7cdd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/fwaystones/textures/gui/waystone_config.png",
-      "hash": "6dffcbd86e111e14d161af15092a0e6bd5f7b114",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ias/textures/gui/iasbutton.png",
-      "hash": "94e6efa35434531186cc7b03aadd17e9dd4a436c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventorymanagement/textures/gui.png",
-      "hash": "ba21675f035633d4e06c770602c31a9a2ab5a43f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventorymanagement/textures/roundalib.png",
-      "hash": "557f15aab77e0f2b209b745c96b9c2655b607110",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventoryprofilesnext/textures/gui/gui_buttons.png",
-      "hash": "1eccbbea0d2bed797e517c30feaf084146af65d0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventoryprofilesnext/textures/gui/gui_buttons_new.png",
-      "hash": "bfdad5e764e47cacf296f7b601a2538d016bc356",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventoryprofilesnext/textures/gui/overlay.png",
-      "hash": "b838942b1cb69624970b77eee14a842d53f3da14",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventoryprofilesnext/textures/gui/overlay_new.png",
-      "hash": "575f56d7c34acaa015ecf81ec4bdf552f1f194dd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventoryprofilesnext/textures/gui/widgets.png",
-      "hash": "d763496cae9174e3348e57d70cb3956bf935c281",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventorysorter/textures/gui/button.png",
-      "hash": "db1af6c9d8f3a36cbbc8799c21661d94467d193d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/inventorytabs/textures/gui/buttons.png",
-      "hash": "7aa8fc5cc75ad49b84e32313696282a33bef59e8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/copper.png",
-      "hash": "12aa4f4fca1d532a43e04282e8614a0a39fe65ef",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/copper_og.png",
-      "hash": "11ef1398b31b11b6330a7db2757f5caffb39e5c0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/diamond.png",
-      "hash": "d2002dc03b9b174005215f4a1e6df21732a49659",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/diamond_og.png",
-      "hash": "d4cfec9ceb2cd7178be262abe8d5651b86452d6e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/dirt.png",
-      "hash": "cdfdacc30dbc788b505d0838030d86b39478d2dd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/gold.png",
-      "hash": "63304fef4cac5308b2cfb44953ecd792e9705951",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/gold_og.png",
-      "hash": "5c824bef918d8e479ca88d94e8ee9a7f61c83b88",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/iron.png",
-      "hash": "ebf41f9a4c69b0d9f9f1106914a3811f72a55b13",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/netherite.png",
-      "hash": "c667d315420cb3de0c8ac7cd7a03d473ee57acf8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/ironchests/textures/gui/chests/netherite_og.png",
-      "hash": "c4d9fe8ab8c45e0b6f3b3a494ccd4f5c6743f148",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/back.png",
-      "hash": "f4bb7f27d966579d0813f5e36a250ed1b2e021ed",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/button.png",
-      "hash": "cc1e4542067ff31f649bd5a3d55d038647f2c303",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/clear_slot.png",
-      "hash": "8d034c1f6121a70e766564c7bb4c86be9416f6c4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inventory.png",
-      "hash": "9160ef53047938225c662f263ec35f5271f04e7b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_10.png",
-      "hash": "ee90b397245f78ada20c1637d6a2eb123f748de2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_11.png",
-      "hash": "a8097e793908c1bb808bf56d70f54afa30f77890",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_12_nocenter.png",
-      "hash": "8828477a544d9b4819709999ca824a81457a8a80",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_13.png",
-      "hash": "f40a9e699ed209c11b29041bf15223776f723809",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_14.png",
-      "hash": "30b3e28aa065db99d388e95d06804e2e4855a07e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_15_nocenter.png",
-      "hash": "a73429491222c38dd2e5a42b414a5afe29c2103c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_16_nocenter.png",
-      "hash": "d1aba16ae6a1341dc65560f86d2769c70c00e856",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_18_half_aligned.png",
-      "hash": "056b8bfc6e2f924e51fd53aa6cac3ea82e9602fa",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_20_nocenter.png",
-      "hash": "a6cbfd13c26b085caa60a2db85962852e879562b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_22_half_aligned.png",
-      "hash": "e8ae8369d767c9a260c0dd88530a956f7123a41d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_24_nocenter.png",
-      "hash": "510c5256171bdec92198232742a795939b7877c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_25_nocenter.png",
-      "hash": "e34feadf346f0367beeec219f32c038d5c5a7510",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_3_row.png",
-      "hash": "0d469fa35d8245883b16b6a0b0a40bb57ac68624",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_4_nocenter.png",
-      "hash": "97c8aa2659d4b54ce2db114fd437b8491b83205a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_5_plus.png",
-      "hash": "1021829df5612df28073a9460e3120bd83a9c1ad",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_6_nocenter.png",
-      "hash": "a19e26fe115a9175b55a7663159df6fdda754d3e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_7.png",
-      "hash": "15c6a317015bf606195bbdf730a577a49e4d2d64",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_8_nocenter.png",
-      "hash": "58498507af5c5f6f18e69a3ec0d55cb4461d138d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/inv_wheel_9.png",
-      "hash": "6e60dbb93b14c941753c85f7cfa5f2bb3d756c5a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_bottom_slot.png",
-      "hash": "0261e28319888eea0a318e4226dbe13d113a79cc",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_middle_continue_bottom_slot.png",
-      "hash": "daf1d23be6f2968af66a4c17f7aa9e03caa67fb6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_middle_continue_top_slot.png",
-      "hash": "67cb25b853ec423e96c043253c9b06e6c0f1ef3e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_middle_slot.png",
-      "hash": "5292b29faba5a8e742be3b166fe92122482f7efb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_single_slot.png",
-      "hash": "9f7b3c415a31bfc3b6540c1caebbd0d5230a0e8b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/list_top_slot.png",
-      "hash": "f25995409b4baab40cb760954e0938f168301089",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/itemswapper/textures/gui/selection.png",
-      "hash": "6cab6de3e325eb49f6fc0a4de587afa51fa394d1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jade/textures/sprites.png",
-      "hash": "5691a48735f7859d1d4c64dc9dfae103eaa126b9",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/bookmark_list_background.png",
-      "hash": "d0251b88e4786a7182f415a746e4c561e4ab2c8d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/bookmark_list_slot_background.png",
-      "hash": "e2db6159a903f46f248c8e974d2466997624b6c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/button_disabled.png",
-      "hash": "2884fa951822c18dc580e0b21f6430ef1eeb2011",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/button_enabled.png",
-      "hash": "2ed19a4f06439a4fbbfa6d65a9dfca596b4776be",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/button_highlight.png",
-      "hash": "3781a7e0ceaa17bbbcc729e273833570ff455b72",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/catalyst_tab.png",
-      "hash": "80760c9ffdadde9593f72ddc6fed1e462ee5ea46",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/gui_background.png",
-      "hash": "d0251b88e4786a7182f415a746e4c561e4ab2c8d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/gui_vanilla.png",
-      "hash": "bfdab53975ebc8363ca641855968ec00f70cd7ed",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/ingredient_list_background.png",
-      "hash": "d0251b88e4786a7182f415a746e4c561e4ab2c8d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/ingredient_list_slot_background.png",
-      "hash": "e2db6159a903f46f248c8e974d2466997624b6c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/recipe_catalyst_slot_background.png",
-      "hash": "e2db6159a903f46f248c8e974d2466997624b6c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/search_background.png",
-      "hash": "82530f98ed2a744e7875039c4d1a6f91a8a72664",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/single_recipe_background.png",
-      "hash": "26365097bef22f7b0cdf23e805765b8f91b39dd8",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/slot.png",
-      "hash": "e2db6159a903f46f248c8e974d2466997624b6c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/tab_selected.png",
-      "hash": "0e4a7db0d88385b75ab0f0a534dc2564d17caa2e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jei/textures/gui/tab_unselected.png",
-      "hash": "33a41dcc95d9fc9298bc03befa93a10c0826b1f0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/jgui/gui.png",
-      "hash": "4c5aad9abd3f482a0331779cde4384df18cfbdb9",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/languagereload/textures/gui/language_selection.png",
-      "hash": "3d2e1128eec07f583be513d6bd2c2dbc60f95a9a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/dark_widgets.png",
-      "hash": "90b59f3fbf780c0728aa748e7c8b544e322c3048",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/focus.png",
-      "hash": "935f8e36cfce3cb436077a5217f12a9bf0326332",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/item_slot.png",
-      "hash": "8d1e2b05fe4ccacb8c5cd2acaee0f0099acefb10",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/panel_dark.png",
-      "hash": "2d217a705234f3adbc26dd630b3a749e121f996f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/panel_light.png",
-      "hash": "31a061f36f407c5e4d9076512673d4d8f5655b9b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/slider_dark.png",
-      "hash": "32ca55985740b92906dfbdc966304c723563cabe",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/slider_light.png",
-      "hash": "70c9c2e1c683976d2894db9a552f9860d26ce8aa",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/tab/focus.png",
-      "hash": "935f8e36cfce3cb436077a5217f12a9bf0326332",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/tab/selected_dark.png",
-      "hash": "1322ebc8efc52f37f57014033a16fca7e90a5237",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/tab/selected_light.png",
-      "hash": "1322ebc8efc52f37f57014033a16fca7e90a5237",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/tab/unselected_dark.png",
-      "hash": "af391e7ae264aba8ee1dbd741c57f54e9529943d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/tab/unselected_light.png",
-      "hash": "af391e7ae264aba8ee1dbd741c57f54e9529943d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/toggle_focus.png",
-      "hash": "6057de4e465d6e5e7dc8bb6cc0ab22ddfe7760fc",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/toggle_off.png",
-      "hash": "c43c38d1f2ac7107c4deb76b3a132c4dbf4a2e3e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/libgui/textures/widget/toggle_on.png",
-      "hash": "07521845c5e92979713038ceef1363c93c029e3e",
+      "hash": "9bdef0d323548580c8f58294e086599c75ddaf5d",
       "force": true,
       "type": "addon"
     },
@@ -3856,440 +3262,50 @@
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/accessibility.png",
-      "hash": "1c4295229ce8c1e92e8e565a3f2d167a2f6e359d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/adventure.png",
-      "hash": "04dc07afc9ba8b003d0c79ea208812252029c1ea",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/end.png",
-      "hash": "7fb700de73fbf34f805e2c1f1830379331ebad70",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/husbandry.png",
-      "hash": "ecf5fb3cf4af518bcf622395a1fcd308bf2a4c0f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/nether.png",
-      "hash": "a08fcfd56f8c0f1f89ca552e5e91ef3a2c5f7fa7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/backgrounds/stone.png",
-      "hash": "df0d3daade6471f5aa652bdbd1ba02bce01efd4f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/tabs.png",
-      "hash": "a268b7843003ba3fbdcf8411110ed22a4150474c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/widgets.png",
-      "hash": "534ea68c7488d919279e85f2490c2fc49e6cfbce",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/advancements/window.png",
-      "hash": "9cb8a74223061407efc1e30a5d1d6483cd6c6398",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/bars.png",
-      "hash": "fb67e5a6c878cb24955ecc61910dd435aa22d16b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/chat_tags.png",
-      "hash": "655e4ccc74d1e7e4e738ec1f3f0f966656706ef4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/checkbox.png",
-      "hash": "a288241f86283b0b53221aebc0c32db83218973c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/checkmark.png",
-      "hash": "717a97fe8a4be530d0fce1d12383e9a146191ab5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/anvil.png",
-      "hash": "5d761935a7c0eda490d201441d96b9896cd0a914",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/beacon.png",
-      "hash": "58c90b7e382c6b61df4fc7acf34101070128b3f1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/blast_furnace.png",
-      "hash": "c50ba54e7f808a561682d30504f0cc382ccd1828",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/brewing_stand.png",
-      "hash": "e1f24c088d4f32753e10ab189d4500bf094f6bbc",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/bundle.png",
-      "hash": "302c9e83d9f0ed18b41ede8ae41ac75efc2098b0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/cartography_table.png",
-      "hash": "f44c856035d0170be65ff24d93ffe18fd1af560e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/crafting_table.png",
-      "hash": "8055912954aa95103a52a3435dd39a548463c8ac",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/creative_inventory/tabs.png",
-      "hash": "dfdef7439763f3be388a529ece8e5c9f6404de60",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png",
-      "hash": "cb370888da68ce1ffb3eb4905775dfa660f092d1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png",
-      "hash": "d4041ba855bad562de0734defc388cc063f3cce3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png",
-      "hash": "34fe36f9d5a0e2c66fa50f3bcec21730ee6a5190",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/dispenser.png",
-      "hash": "4fa92bff18e7f0381b5f36060ca0a804d1bb1d1a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/enchanting_table.png",
-      "hash": "cf9704276c9ec74de4318c5585745a8fd3eea6af",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/furnace.png",
-      "hash": "c50ba54e7f808a561682d30504f0cc382ccd1828",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/gamemode_switcher.png",
-      "hash": "44b18ed55d02ff58cf58c9ebbd698964788ffd20",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/generic_54.png",
-      "hash": "01c91670a118101a2f6e3dbc35727af601856859",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/grindstone.png",
-      "hash": "26f2ba375bf0bee48f8c58d9dd7e272e58088d71",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/hopper.png",
-      "hash": "eaad21980d65087585993249d07059886931c908",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/horse.png",
-      "hash": "3be996842b1848568fd4c56a092305a65e82a4ce",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/inventory.png",
-      "hash": "b45c65e22e697cf7a18ddb8fa3454b154449d043",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/legacy_smithing.png",
-      "hash": "52ff1877c73831f47d629103e9377404b809d296",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/loom.png",
-      "hash": "b813d2d33452b986ed45a2444fa8eb9bb4985a9f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/shulker_box.png",
-      "hash": "c375c429e4fff3a98cf11b75cd22cc401645d05f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/smithing.png",
-      "hash": "314f0de5e0e079dc9c5662aaa64124b75aa234be",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/smoker.png",
-      "hash": "25e2e75e4c73fb23496762e2851f940996b57e9a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/stats_icons.png",
-      "hash": "c98a3e37c429391383b5cb97a98f7c88624890c0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/stonecutter.png",
-      "hash": "afbf20d7fc943646a1cbd8ba72dcbd3e0c62e51c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/container/villager2.png",
-      "hash": "2bf296e80825b2240ca64074c226b3ec1565823c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/demo_background.png",
-      "hash": "d90d5ba7bb461c1c271d50721e14438c15d83609",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/icons.png",
-      "hash": "4d5077bb5ba1f8d25d0ea040f3099b34c4d82c1e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/info_icon.png",
-      "hash": "f251f4e8ca4a6c99e0a0e9a3e6a687f34d3aaa56",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/options_background.png",
-      "hash": "9135f71f580e94a4f1ae2b8004ebd53aa9fefbb9",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/presets/isles.png",
-      "hash": "63e841d0c38a8d8735a6f3b3b4101fe7a8d5074c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/recipe_book.png",
-      "hash": "a33ff80be344355faba95cce2b24a6225ad2217b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/recipe_button.png",
-      "hash": "cd6b15e16778cdf4abc4572ae034b83686179714",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/report_button.png",
-      "hash": "1e00505c4eb1f6066263ce432038c154d76cef62",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/resource_packs.png",
-      "hash": "916d5ff5913c8dc796d808a9d7ffd70d12ab2bc0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/server_selection.png",
-      "hash": "0f01d39c9b9f75daeb3af24d7401c01305846be5",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/slider.png",
-      "hash": "76ae2656764828dd98b545e4720813a5f2b65b7b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/social_interactions.png",
-      "hash": "476020a4bd4981d678e3f32ddcbcb00fec332350",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/spectator_widgets.png",
-      "hash": "64212f61302744aec08a91960b6289a78aee87cb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/stream_indicator.png",
-      "hash": "1f79a96a9f0952013da34267fa657fc0b4e2723d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/tab_button.png",
-      "hash": "a3266f473e9a1c0543c5b60dfe66092194cf6ac1",
+      "hash": "a0bf47ddf61dde1e8e4142574985a40e02e57d4e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_0.png",
-      "hash": "e3d18f8db26b9940146d685ccba5ce2add6d01af",
+      "hash": "1a51cac3aac9d6932239e2522c853b518458ac24",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_1.png",
-      "hash": "d223b0d216ece34633857f481e2a5b9f4e803fb6",
+      "hash": "103a6a3df2737975a06ac461754680e7fd745c8c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_2.png",
-      "hash": "fee1cc7ddc9e0a83d029e75e66f45da5bd4e30c4",
+      "hash": "73118ec4acba59e133588ad57a9bfcca39e5f041",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_3.png",
-      "hash": "00b91722e4fefd9c96dc2206f635557f7d704058",
+      "hash": "c60a62015ce7b86ae2d93d9e2105d420c7b3dc29",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_4.png",
-      "hash": "8e7cb10e82915717cac59d39eb010913f39fbdb3",
+      "hash": "9e57e07678a697c31316de0edce2d8635bcff670",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/background/panorama_5.png",
-      "hash": "c889a22ceaa9f4d70b6cf60a9cdae0d265f16b72",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/edition.png",
-      "hash": "66d752d09401b3156d580da146999220d483531a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/minecraft.png",
-      "hash": "fe9a8c80d5b88fa9bc8047e49425901048d79b08",
+      "hash": "6496e81a94b8485ce2919c5a5eabe9130c0dbe27",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/title/mojangstudios.png",
       "hash": "f3036c863974c405f21b2a6435fc152f4bc6eb40",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/toasts.png",
-      "hash": "55ad24654941c20090e9fd2c5c005d9210b03c6e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/widgets.png",
-      "hash": "ea3533959f869accf6d11e27c26e678b9bb5b98d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/gui/world_selection.png",
-      "hash": "435e15ed1008443045dee8e55c29ea243982781b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/empty_armor_slot_boots.png",
-      "hash": "b59bf8a1fab200aea085623c8bde3680991001f7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/empty_armor_slot_chestplate.png",
-      "hash": "2715ed243c3cfe9d474d59e3cd0df1ba32124a07",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/empty_armor_slot_helmet.png",
-      "hash": "1298084e2507b5e1d7df478b389261e90d07bda3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/empty_armor_slot_leggings.png",
-      "hash": "f9ab1ad611229e653fa00c214f61810093c319ca",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/empty_armor_slot_shield.png",
-      "hash": "8405988588f6637266f6ff1a4bfef17643a93126",
       "force": true,
       "type": "addon"
     },
@@ -4390,758 +3406,368 @@
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/configure_button.png",
-      "hash": "878b67f295491568e76d168d70cb87c37cc4ee9c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/filters_button.png",
-      "hash": "058d274f6374697737bcab4f03d287d0e14c12a7",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/mods_button.png",
-      "hash": "beefc434b1f0921f7c71c90a6ad289daea87d498",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/mods_button_alt.png",
-      "hash": "006b056bc2269505e8e5f1868f4e2f57d67e73fe",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/mods_button_alt3.png",
-      "hash": "b3fc212079dd0b5718012049512fa8ad2ed3051a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/mod_configuration.png",
-      "hash": "6f6f37accdc95ed7e89ffd89341a266e3ca72a00",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/modmenu/textures/gui/parent_mod.png",
-      "hash": "e65acb9c1c9815edf7e87318082d4dda32681944",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/musica/textures/gui/song_mixer.png",
-      "hash": "38face955fc5d62022d2be4ae6b8db625a30009c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/credit.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/credit_page_2.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/credit_page_3.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/credit_page_4.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/credit_page_5.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_2.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_3.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_4.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_5.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_6.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/music_list_page_7.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_credit.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_credit_page_2.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_credit_page_3.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_credit_page_4.png",
-      "hash": "ee5f3166909d7ceb9190250ca31958ebfcad4815",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_music_list.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_music_list_2.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_music_list_3.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_music_list_4.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/music_electronic/textures/screens/trap_nation_music_list_5.png",
-      "hash": "761ade318c17660df499cfd14ff53ce916b7929a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/numismatic-overhaul/textures/gui/piggy_bank.png",
-      "hash": "f5e630d4c9172810305b0075b023e73f23ccd7eb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/numismatic-overhaul/textures/gui/purse_widget.png",
-      "hash": "48cf9a1663ba674e3973e790f1023a1ba97af477",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/numismatic-overhaul/textures/gui/shop_gui.png",
-      "hash": "3586083fd6a47d40d2ce030891b861ac48b94223",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/numismatic-overhaul/textures/gui/shop_gui_trades.png",
-      "hash": "92258c187594983d67329f8b0bd402eab4e5188a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/owo/textures/gui/buttons.png",
-      "hash": "c6ce283bd937de7ae9c99f9270c583cd4f9f0f66",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/owo/textures/gui/dropdown_icons.png",
-      "hash": "277ea8e92003e162abed597ea2044e303c9e7dbd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/owo/textures/gui/panel.png",
-      "hash": "d91a3eb820132f49a580383029f429460b3a6be1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/owo/textures/gui/scrollbar.png",
-      "hash": "d6b52d15f9ed37bc7744e89f2f363a9d5331c928",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/owo/textures/gui/tabs.png",
-      "hash": "fb47100a908e7e5fce7a5e179151c556dfe8bff4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/headset_disabled.png",
-      "hash": "7d3394589459a1f90a4abb4deefc02038666c077",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/headset_not_installed.png",
-      "hash": "a2eaca8a66de72c908a9fe47d5577c2fb5217797",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone.png",
-      "hash": "38f00cafd3faaddadd36638d249db47aec465ddf",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_amogus.png",
-      "hash": "36cc05358534ced009f74422cc942bd845dbf607",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_broadcast.png",
-      "hash": "59eba227e6fff10d5a88d98acaf4064a548560e3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_disabled.png",
-      "hash": "e0c4e33d775f9240f3fe007bd3dbc471f56d1ed0",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_disconnected.png",
-      "hash": "f40eae8e80e8dd5b4faaf5f6c354b1db0aa7b255",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_group.png",
-      "hash": "6dfa18bcddde196cee7781abc5a7d1c1b58b0d83",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_menu.png",
-      "hash": "21b7190b1c2eefecace65282def41d93e0e79174",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_menu_disabled.png",
-      "hash": "85a4bb8d1a0575ff86c49c83b4516d5ee0b8134b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_muted.png",
-      "hash": "7fc3030afa058f4078cd6001f7158021b512b18b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_priority.png",
-      "hash": "47cbfca9dcc5eb08742f39c5246fed9d498ff06d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_radio.png",
-      "hash": "cfc51e63e65804faaae70b783ddbffae34bf82e4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/microphone_whisper.png",
-      "hash": "73183abd14d46342e0ff11d5c3908298e7bc7c4d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/reset.png",
-      "hash": "60db0179bcd5e29017a2f0d1da43d2b586287f1c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker.png",
-      "hash": "e46fb86dd7607f1a059f69ce2e8c69c045f34a60",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_broadcast.png",
-      "hash": "129cb6f57badaffbb3554b68eaca3bb440c87024",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_disabled.png",
-      "hash": "95fa144e5681855906a42d074da9874a57d58b0a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_disc.png",
-      "hash": "ab7e16ad7d4c239a6ca4a11ac5d79bf12160f4e2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_group.png",
-      "hash": "42e6cc9850925cc19dcdb963da89ccd84a2fbd18",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_menu.png",
-      "hash": "e46fb86dd7607f1a059f69ce2e8c69c045f34a60",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_menu_disabled.png",
-      "hash": "67603745f3f056b50550e575ae70d193b340124f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_muted.png",
-      "hash": "2e3b64ccf1564a26fe1bdb952fc412a26116c91f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_priority.png",
-      "hash": "6702a4f8dbbe21d46b044a226f5c70b55a20851f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_radio.png",
-      "hash": "a77613b2ab4bf1ca0c87804cd95296b2bdbf64b6",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmovoice/textures/icons/speaker_whisper.png",
-      "hash": "f41a6f29e13d2854e3bfb471b8010be380ce2974",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/plasmo_voice/textures/gui/icons.png",
-      "hash": "d8f51143ee9c8dfc883a33771a946242955ff53b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/realms/textures/gui/realms/cross_icon.png",
-      "hash": "c183f6e817f4a80d4c0fcd830694f6816ab28fb9",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/realms/textures/gui/realms/news_icon.png",
-      "hash": "958c07e2f48fad6ce1b986b6234a2a151396f0c2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/realms/textures/gui/realms/popup.png",
-      "hash": "e597843aa129ed5d3ae0bf5636c343769cc5a191",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/realms/textures/gui/realms/slot_frame.png",
-      "hash": "e4d083b455b474e4e870fed02097177d2114682e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/recursiveresources/textures/gui/folder.png",
-      "hash": "3d00232d5529e9669989eaa4a8fbc79f4481a03e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/recursiveresources/textures/gui/folder_open.png",
-      "hash": "4158854a9dbe2703ce642acc5f59bba8d82b838f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/recursiveresources/textures/gui/widgets.png",
-      "hash": "1cbf756f0f9fd24244cc7208fb85d1951377a899",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/replaymod/replay_gui.png",
-      "hash": "2d83226275b7f7f015683cdc064816763f6d2677",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/roundalib/textures/gui.png",
-      "hash": "5b8e49c59ddb888754a50d6c022838cab2f4c064",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/notice_board_gui.png",
-      "hash": "2b54b443fb600a626431e17724653a26a2bf8de3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/orange_trader1.png",
-      "hash": "f18c5268440fcce71023798da2ffdad7a5c2b98d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/present_gui.png",
-      "hash": "0a0b4e91d32a29b078f4e5af1f0f6529e87c0d54",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/pulley_block_gui.png",
-      "hash": "65e6345ba042c508040891087a89858cb6c0065f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/quiver_select.png",
-      "hash": "b7ad4875764f69cf3d0ed5d8edae29c55e0b0ecf",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/red_merchant.png",
-      "hash": "4b7d0b2d2002fd6201d5a951ecb85cdcf600e5aa",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/sack_gui.png",
-      "hash": "0b15156cfccc3b52d23009d41af326de1ad005db",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/slot.png",
-      "hash": "e2db6159a903f46f248c8e974d2466997624b6c1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/supplementaries/textures/gui/trapped_present_gui.png",
-      "hash": "e03bd0c1298ff4c64a59b8aa71cd93003b47a74c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/the_bumblezone/textures/gui/container/bee_themed_54.png",
-      "hash": "5c85bb0d40be3521aa18f37648eacf960011d939",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/the_bumblezone/textures/gui/container/crystallized_flower.png",
-      "hash": "d73cd7565e36885bbc269cfc702e6a9ab72bbe8d",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/the_bumblezone/textures/gui/queen_randomizer_trades_layout.png",
-      "hash": "37d501a2716f9a41f8611ffb5ee777d774e7b5df",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/the_bumblezone/textures/gui/queen_trades_layout.png",
-      "hash": "86e9edd09aa32dbf3d0b7124f08ac59ab80864b2",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/the_bumblezone/textures/gui/tag_icon.png",
-      "hash": "07cdbc9d6afb4f13d3d10e7e846502979b2308cb",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trick_update_1_20/textures/screens/chiseled_bookshelf_ui.png",
-      "hash": "bbb6034efb8c86dcf74705092e398fa1a437f63a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/blank_back.png",
-      "hash": "c06a54a553ccb2be45102ce1eea9b3195972ec32",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/more_slots.png",
-      "hash": "7f0a7065af2866a7d2f93814074b5f3e4ef88ae1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/aglet.png",
-      "hash": "ff6196ca723c137580d838acb73a4f733fcca928",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/back.png",
-      "hash": "d388c987e2cad68ff93000b07d396bd8bd037e7b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/belt.png",
-      "hash": "1390a806dec599bee6ef31e2ae5809ccc35bc0d4",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/cape.png",
-      "hash": "dda7ff222cb5d6807d1504fa353e51b5d75b4829",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/charm.png",
-      "hash": "aa42b3d7c419f1055642d6549a7db93ea66ef952",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/face.png",
-      "hash": "00e507901d564b1abd39e697ef437ca234ccf544",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/glove.png",
-      "hash": "8c4ed5c068fd467c7dcf07edac6d145ed4f4d911",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/glove_mirrored.png",
-      "hash": "ac343e1971345182d4635e7fa2b486c160ae01da",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/hat.png",
-      "hash": "b77d028cd92b1071f15a2d940874d06862e12bb3",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/necklace.png",
-      "hash": "fdbcf1728694221e6e203136310e418a22649c0e",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/ring.png",
-      "hash": "cf75c460d98150529fdca88dfd4ad210c52d26a1",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/trinkets/textures/gui/slots/shoes.png",
-      "hash": "8f0da903286e5758a51fc6c37edc6b2c73dcfc2a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/vinery/textures/gui/barrel_gui.png",
-      "hash": "a38c0f9192df76f6469fff6aad3f273fc2b28e1f",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/vinery/textures/gui/pot_gui.png",
-      "hash": "d2cf716a6bfc629069bac8dda591082238c62a86",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/vinery/textures/gui/stove_gui.png",
-      "hash": "a5df53c357f90a7855aebf82cce6240de343318a",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/vinery/textures/gui/wine_press.png",
-      "hash": "a8a94317b8938c8ac02a31df1ec18c5fbe7a0021",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_audio_devices.png",
-      "hash": "2567af42c7f234e383c847a031820d343c5d9742",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_create_group.png",
-      "hash": "094a1f4aae55bc5ac4221f514e6f54a3bc300b2b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_enter_password.png",
-      "hash": "fbce04d7b383d8558c88fbbd0b673b5a40621344",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_group.png",
-      "hash": "2567af42c7f234e383c847a031820d343c5d9742",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_join_group.png",
-      "hash": "2567af42c7f234e383c847a031820d343c5d9742",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_voicechat.png",
-      "hash": "2e8c0d42fcbbc1c058d5a1ace0f2e6312ad74703",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_voicechat_settings.png",
-      "hash": "be128e692c0308f35d2d26210d4f88acea62d344",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/voicechat/textures/gui/gui_volumes.png",
-      "hash": "dbf00e9723cfd48c1953a2c18746ce721b7f487c",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/waystones/textures/gui/checkbox.png",
-      "hash": "fa95ecfecc805407a0c201ecd510d397c49ac226",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/waystones/textures/gui/jei/warp_plate.png",
-      "hash": "f52c6effe28f051112f34c9f12e6fb6eecb20b86",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "resourcepacks/Frodium Resources/assets/waystones/textures/gui/menu/warp_plate.png",
-      "hash": "20f0cb2287ca4df0ef972e0f5e28a0bc6e466933",
+      "path": "resourcepacks/Frodium Resources/assets/minecraft/textures/item/sniffer_egg.png",
+      "hash": "8cc654ff99ae2f84c94f532f5cefcc955a7f78cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/pack.mcmeta",
-      "hash": "89ad57b26894d15a3cc85fd3835ad1b1d37263c0",
+      "hash": "fe7e2f04a0a0d532d81f0e67f536502518f95d62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resourcepacks/Frodium Resources/pack.png",
-      "hash": "f8a0868284e44e71cfe2e8e767af83e30923dc9f",
+      "hash": "8f6f7c18a2fb6f69eb9313773053f14c26a8ef18",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Frodium Resources/pack_2.png",
-      "hash": "952ed73cf801b2f68bc5a3147d635b5a62f0a440",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/acacia_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Frodium Resources/pack_old.png",
-      "hash": "c25b66d4e395e4266a5051f943182f0df54a0eb0",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/bamboo_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Frodium Resources/README",
-      "hash": "9b10f7a27d3eedaca8f6205aa79da8df42d38bc1",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/bed_shape.json",
+      "hash": "5f56b217ec478e05894248e5b535f0dbb69369a6",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Stay_True_1.19.zip",
-      "hash": "194fcada975ad2b61b6ce7ee51332e2da69edaf0",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/birch_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/XeKr 原版红显16~19plus2.4.zip",
-      "hash": "ccd16749935bd6aca5310decd5c0219feb41b63b",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/black_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
       "force": true,
       "type": "addon"
     },
     {
-      "path": "resourcepacks/Xray_Ultimate_1.19_v4.2.3.zip",
-      "hash": "32edbc2338a43ce49017de6ff83a50d946b90d2a",
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/blue_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/brown_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/cherry_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/crimson_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/cyan_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/dark_oak_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/door_shape.json",
+      "hash": "b837e9c95ce8a1612945ae5cd63eb7f2f92c4ade",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/gray_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/green_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/iron_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/jungle_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/large_fern.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/light_blue_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/light_gray_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/lilac.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/lime_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/magenta_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/mangrove_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/oak_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/orange_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/peony.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/pink_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/purple_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/red_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/rose_bush.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/small_dripleaf.json",
+      "hash": "8081b8ebc8a5cd9480aeaf2d35be297c899bf6ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/spruce_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/sunflower.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/tall_grass.json",
+      "hash": "2b424b055ecc17a2dcc872df10ba7062c6905a8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/tall_plant_offset_shape.json",
+      "hash": "d133018b1ef1d8d84d43841108e1f29ab7e9cdf3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/tall_plant_shape.json",
+      "hash": "18051b6fe47da3931bc007b656d4155db1596ffd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/tall_seagrass.json",
+      "hash": "8081b8ebc8a5cd9480aeaf2d35be297c899bf6ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/warped_door.json",
+      "hash": "7e443cd5029d65a4bad0feffee3602df9b7342df",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/white_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/resourcefullib/highlights/yellow_bed.json",
+      "hash": "ebb6d7f8a4fbe3a653a31eb6af8a01bf17741c76",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/powder_snow.png",
+      "hash": "f33bdc51188f74fa2825a0bdfc84408493fc17d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/sculk_catalyst_top.png",
+      "hash": "efedd09106102032dec8d1251f6ec2d0ebc6f35d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/sculk_catalyst_top_bloom.png",
+      "hash": "a801006658ed89f2059cd40ae39f1e7b67886204",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/sculk_vein.png",
+      "hash": "a57613c72a46cc3cb63f3d4a08368f1a61336a82",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_gravel_0.png",
+      "hash": "0b91ae0aca2ea3f8821b2f9b6f50acd616fbe045",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_gravel_1.png",
+      "hash": "7ad576531886c335a4a6768db97e8cfb02a45d9e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_gravel_2.png",
+      "hash": "939dd997a6087b6f1f92a88f685817c40e2dca09",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_gravel_3.png",
+      "hash": "53d9b22cb836d14f131726bfcacd75d8988db8ca",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_sand_0.png",
+      "hash": "86ffe7411007c4fd51155f45bf9cb69fdd0137c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_sand_1.png",
+      "hash": "fcb7ab5a87fe8b1abca11b766894af2fbccc1799",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_sand_2.png",
+      "hash": "c1f6864864d5284169db450127c999297eb9c1e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/assets/minecraft/textures/block/suspicious_sand_3.png",
+      "hash": "24e8df4a6907e39108f5aa13e1717c01d2598555",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/pack.mcmeta",
+      "hash": "885dac26745b6313c2a4ff77b3f5fa32b7923617",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Frodium Resources §cE§ex§at§3r§9a/pack.png",
+      "hash": "224a6bf3329ee15c4fd8db510faa9d85c4dd9a3b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/GUI-SimpleStylized_2.1-1.20.zip",
+      "hash": "28ee478a63a3c8cda82fedd70d90c07bcc6cff02",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Stay_True_1.20_beta.zip",
+      "hash": "5f845f69bff459381c2444ae36e6fbb86ff6679a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/XKRD红显3.0for1.20.zip",
+      "hash": "eca5e17e9d80d8c8b7d4f1452dd6298af5ec85ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "resourcepacks/Xray_Ultimate_1.20_v4.2.4.zip",
+      "hash": "89823c386702409d36cd726a3865aedc492a76a7",
       "force": true,
       "type": "addon"
     },
@@ -5165,7 +3791,7 @@
     },
     {
       "path": "shaderpacks/ComplementaryShaders_v4.6.zip.txt",
-      "hash": "e4b2e1eb83157e9d0ee79542dda289ab2a647f4a",
+      "hash": "397aeac1cb86cf9a222a31560625a276e429345f",
       "force": true,
       "type": "addon"
     },

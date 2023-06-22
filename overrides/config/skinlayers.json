@@ -12,5 +12,6 @@
   "enableSkulls": true,
   "enableSkullsItems": true,
   "skullVoxelSize": 1.1,
-  "fastRender": true
+  "fastRender": true,
+  "firstPersonPixelScaling": 1.1
 }

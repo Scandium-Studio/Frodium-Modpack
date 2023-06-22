@@ -27,6 +27,7 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceVanillaReach": false,
     "executeRequireHoldingTool": true,
+    "fixChestMirror": true,
     "fixRailRotation": true,
     "generateLowercaseNames": false,
     "highlightBlockInInventory": false,
@@ -45,6 +46,7 @@
     "pickBlockAvoidTools": false,
     "pickBlockEnabled": true,
     "pickBlockShulkers": false,
+    "placementReplaceBehavior": "all",
     "placementRestriction": false,
     "placementRestrictionWarn": "actionbar",
     "renderMaterialListInGuis": true,
@@ -64,12 +66,7 @@
     "customSchematicBaseDirectory": "G:\\Minecraft 我的世界\\Frodium+ Modpack\\versions\\1.19.3 基础包\\schematics",
     "easyPlaceSwapInterval": 0,
     "pickBlockableSlots": "1,2,3,4,5",
-    "toolItem": "minecraft:stick",
-    "printingMode": false,
-    "printingInterval": 12,
-    "printingRange": 5.0,
-    "replaceFluidSourceBlocks": true,
-    "stripLogs": true
+    "toolItem": "minecraft:stick"
   },
   "Hotkeys": {
     "addSelectionBox": {
@@ -290,12 +287,6 @@
     },
     "unloadCurrentSchematic": {
       "keys": ""
-    },
-    "print": {
-      "keys": "V"
-    },
-    "togglePrintingMode": {
-      "keys": "CAPS_LOCK"
     }
   },
   "InfoOverlays": {

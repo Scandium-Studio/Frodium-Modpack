@@ -9,7 +9,7 @@
     "clientPlacementRotation": true,
     "fastLeftClickAllowTools": false,
     "fastPlacementRememberOrientation": true,
-    "freeCameraPlayerInputs": true,
+    "freeCameraPlayerInputs": false,
     "freeCameraPlayerMovement": false,
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
