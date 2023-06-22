@@ -2,7 +2,7 @@
 name: Crash report
 about: Create a report to help us improve
 title: "[Crash] "
-labels: 游戏崩溃
+labels: "· 游戏崩溃"
 assignees: ''
 
 ---
