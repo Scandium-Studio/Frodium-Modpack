@@ -1,7 +1,7 @@
 ---
 name: 新 Mod 建议
 about: 为整合包提供新 Mod 的建议以实现期望的功能
-title: "[Mod 建议] "
+title: "【Mod 建议】"
 labels: "· Mod 建议"
 assignees: ''
 
