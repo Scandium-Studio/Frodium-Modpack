@@ -1,16 +1,16 @@
 <div align="center"><img src="https://github.com/WForst-Breeze/Files/blob/main/Frodium/Post_New3.png?raw=true" alt="Frodium Post"/></div>
 <div align="center">
   
-![Forks](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge)
-![Mods Count](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
-![Latest Version](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
+![Forks](https://img.shields.io/github/stars/Scandium-Studio/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/Scandium-Studio/Frodium-Modpack?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Scandium-Studio/Frodium-Modpack?color=success&style=for-the-badge)
+![Mods Count](https://img.shields.io/github/directory-file-count/Scandium-Studio/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
+![Latest Version](https://img.shields.io/github/v/release/Scandium-Studio/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
 [![Frodium Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge)](https://gitee.com/wforstbreeze/Frodium-Modpack-Gitee)
 [![Frodium Lite](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
 </div>
 <div align="center">
   
-### **简体中文** | [English](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-EN.md)
+### **简体中文** | [English](https://github.com/Scandium-Studio/Frodium-Modpack/blob/main/README-EN.md)
 
 </div>
 
