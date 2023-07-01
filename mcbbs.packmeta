@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.3.0 (Public Test Beta 2)",
-  "version": "1.3.0 Beta 2",
+  "name": "Frodium 1.3.0",
+  "version": "1.3.0",
   "author": "Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -239,7 +239,7 @@
     },
     {
       "path": "config/continuebutton/config.properties",
-      "hash": "96e5399279a21fd6580f821388baaa5c96385ac6",
+      "hash": "d1e1134802cd000193b4636bd3002cf69e408fa3",
       "force": true,
       "type": "addon"
     },
@@ -341,6 +341,12 @@
     },
     {
       "path": "config/craftingtweaks-common.toml.bak21",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak22",
       "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
       "force": true,
       "type": "addon"
@@ -533,7 +539,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "f2013516e3c47d8887cf6ab939cc67b57514047a",
+      "hash": "0c570219642c362e89a995a637a2636e3016c07f",
       "force": true,
       "type": "addon"
     },
@@ -545,7 +551,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "f14721ad306bc427b1d4de1a10fb384f8a80de59",
+      "hash": "787e349182bfed6c150b5cb457f533b6d9c45a77",
       "force": true,
       "type": "addon"
     },
@@ -586,6 +592,12 @@
       "type": "addon"
     },
     {
+      "path": "config/holdthatchunk.json",
+      "hash": "9803e483bffcaa5cc59e076c200d575b2a4d8039",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/ias.json",
       "hash": "b7f8ab135196768aebe9be152541acaed726ac85",
       "force": true,
@@ -599,7 +611,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "774ff01daa6a2e0b9a25c575f2be862ed0f9e27b",
+      "hash": "3f363bcab776bc9ec52fa7d9aa09b378fc5fb650",
       "force": true,
       "type": "addon"
     },
@@ -647,7 +659,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "0b598ed9c594e3285e3f72bb5e0df59c4c57af41",
+      "hash": "584187abfe8ffcc081333a53af9030d0785efed8",
       "force": true,
       "type": "addon"
     },
@@ -1151,7 +1163,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "652f97f53dabebeeada035582da652847b4cc954",
+      "hash": "0d091c3f2e647b51d779aa6f380df77715dfabe4",
       "force": true,
       "type": "addon"
     },
@@ -1199,13 +1211,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "f65d327b349740418feb73463e73d62ebddae395",
+      "hash": "592b22ceb4bb7c3b5e56aaa8edeee76064274936",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "a6c500105256e0b4d76d9c7f4cdc4c2d8cd6e445",
+      "hash": "3d790dc22b6180a881823499f0aa124e68a1ac2c",
       "force": true,
       "type": "addon"
     },
@@ -1283,13 +1295,13 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "0ad69254680fa50e8b6357f1d549504df5515e7c",
+      "hash": "fe98d0aa0a122abf137357cd734f3aeedb02cc28",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "bd4135d80a0308c5b9742b2741e4b132c81736aa",
+      "hash": "04aa045bd487dfcaa0ee4c0137da85204cc4d4c9",
       "force": true,
       "type": "addon"
     },
@@ -1325,7 +1337,7 @@
     },
     {
       "path": "config/trade_cycling/trade_cycling.properties",
-      "hash": "039eebcd7329767b95ccd1e8d0740631eab0bc31",
+      "hash": "fe6b095de700102ee148d8b5f12cf5b081a5fd7e",
       "force": true,
       "type": "addon"
     },
@@ -1356,6 +1368,12 @@
     {
       "path": "config/tweakmyclient.json",
       "hash": "c67b0ed34d849e37f01863fcf423acb8189f0ccf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/vanillaicereamfix.json5",
+      "hash": "934c29cb66ba056c3fba04f85aa42d8988aa74a7",
       "force": true,
       "type": "addon"
     },
@@ -1391,7 +1409,7 @@
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "b232b24b530332e267daf0ad164ceb70f66b62cd",
+      "hash": "38f4014681e96d8dd564e872a70f57fcb1cc43db",
       "force": true,
       "type": "addon"
     },
@@ -2434,6 +2452,18 @@
       "type": "addon"
     },
     {
+      "path": "mods/panorama/panorama-16869168449.zip",
+      "hash": "e58c14a8afe0abff3047826cc1a19bf60b99dc18",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/panorama/panorama-16869168543.zip",
+      "hash": "f5bde8a8a8ba94f49d7b829a07000995ffa908e8",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[api] architectury-9.0.7-fabric.jar",
       "hash": "3e7f476efa608867822f6e7acc52940db2829b12",
       "force": true,
@@ -2632,6 +2662,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][DFU载入优化] lazydfu-0.1.3.jar",
+      "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][交流电路] alternate-current-mc1.20-1.6.0.jar",
       "hash": "d374729615cdb59306a7bc8c4cdba37688f29965",
       "force": true,
@@ -2650,8 +2686,26 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][客户端区块加载优化] holdthatchunk-2.0.1+1.19.jar",
+      "hash": "b045e7ac468a78922515c180d4403f8380ec9fec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][快速动画] lunade-fastanim-1.6-1.20.jar",
+      "hash": "0e611399323878b9f3efcc6016ea5d6eefc8c765",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][掉落物合并] getittogetherdrops-fabric-1.20-1.3.jar",
       "hash": "6c3689e784113bd596cb7be3ebf468df11c0574d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][新崩溃优化] VanillaIcecreamFix-b1.1.2_1.20.jar",
+      "hash": "02241a6dedcc927b4cf4e4c562d82c115ce95cff",
       "force": true,
       "type": "addon"
     },
@@ -2974,12 +3028,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/[功能][输入法冲突修复] imblockerfabric-1.0.21.jar.disabled",
-      "hash": "3e33f0744d6216a62bad9231cbd549b1240b8688",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[功能][进度截图] advancementscreenshot-1.20.0-4.1.jar",
       "hash": "d76bd95ba048f61b4704ed9094458026b390c9a6",
       "force": true,
@@ -3012,12 +3060,6 @@
     {
       "path": "mods/[功能扩展][旅行者背包] travelers-backpack-1.20-9.0.1.jar",
       "hash": "ecbc7a574d417ed5871a073e4a202d29ed85ab3b",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/[地毯][TIS扩展] carpet-tis-addition-mc1.20-v1.48.0.jar.disabled",
-      "hash": "1641b25e24bc4f959d5caadf97a410b81dfafd2f",
       "force": true,
       "type": "addon"
     },
