@@ -57,6 +57,7 @@
 
 	[client.functionality_options]
 		# Whitelist of advancements to show plaques for.  Leave empty to display for all.
+		# Same options available as blacklist.
 		whitelist = []
 		# If task sounds should be muted.
 		mute_tasks = false
@@ -64,4 +65,10 @@
 		mute_goals = false
 		# If challenge sounds should be muted.
 		mute_challenges = false
+		# Blacklist of advancements to never show plaques for.  Takes precedence over whitelist if they conflict.
+		# Options:
+		#  Advancement ID (eg. "minecraft:adventure/adventuring_time")
+		#  Mod ID (Omit the colon, eg. "minecraft")
+		#  Advancement Category (End with a /, eg. "minecraft:story/")
+		blacklist = []
 

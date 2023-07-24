@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium 1.3.0",
-  "version": "1.3.0",
+  "name": "Frodium 1.3.1",
+  "version": "1.3.1",
   "author": "Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -35,7 +35,7 @@
     },
     {
       "path": "config/advancementplaques-common.toml",
-      "hash": "4e062387cc834a7e52488b74bd7d29ea70c2f177",
+      "hash": "e8219c43e5ddd658862b238f0eacbe1195169cfe",
       "force": true,
       "type": "addon"
     },
@@ -239,7 +239,7 @@
     },
     {
       "path": "config/continuebutton/config.properties",
-      "hash": "d1e1134802cd000193b4636bd3002cf69e408fa3",
+      "hash": "734fe53ea8cc1cf58a00b3d7cc6feafa3fcff255",
       "force": true,
       "type": "addon"
     },
@@ -347,6 +347,18 @@
     },
     {
       "path": "config/craftingtweaks-common.toml.bak22",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak23",
+      "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/craftingtweaks-common.toml.bak24",
       "hash": "af0f53b2109ab7a2e6b94221c8a0c371e0178de6",
       "force": true,
       "type": "addon"
@@ -539,7 +551,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "0c570219642c362e89a995a637a2636e3016c07f",
+      "hash": "11d4f43efc9046d02fefdfa0526bc645042f6778",
       "force": true,
       "type": "addon"
     },
@@ -551,7 +563,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "787e349182bfed6c150b5cb457f533b6d9c45a77",
+      "hash": "c41554eb1f1e5b07757175ae7717af87cf9780bf",
       "force": true,
       "type": "addon"
     },
@@ -611,7 +623,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "3f363bcab776bc9ec52fa7d9aa09b378fc5fb650",
+      "hash": "7796096e0a37c9a97e6db8656704bd106bf4cb3e",
       "force": true,
       "type": "addon"
     },
@@ -640,6 +652,12 @@
       "type": "addon"
     },
     {
+      "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config.json",
+      "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/inventoryprofilesnext/新的世界/villager-trading-config.json",
       "hash": "68331101b879d5c28cd6f868875e1abfb4bd7294",
       "force": true,
@@ -659,7 +677,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "584187abfe8ffcc081333a53af9030d0785efed8",
+      "hash": "c6865ab4028cd72f275574e1111ef08446f2fd88",
       "force": true,
       "type": "addon"
     },
@@ -755,7 +773,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "104972dd5a938746dfe5c4a79fce27a49c714e02",
+      "hash": "ca46e0b22ccffe161e50bba244e74a623f91e5b3",
       "force": true,
       "type": "addon"
     },
@@ -767,7 +785,7 @@
     },
     {
       "path": "config/legendarytooltips-common.toml",
-      "hash": "a58a002de026a35f82aadc9f9bdc762976ab5580",
+      "hash": "236a1a7858c31c29f236e0e993d967ebf493396b",
       "force": true,
       "type": "addon"
     },
@@ -858,6 +876,18 @@
     {
       "path": "config/litematica/litematica______dim_minecraft_the_nether.json",
       "hash": "408e491552f7aa897a2b033695c059f16a0e7d55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica________.json",
+      "hash": "040143e11c6eef0f77f06961d936f6033ccbc9bb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/litematica/litematica_________dim_minecraft_overworld.json",
+      "hash": "1fb16d44a7ac2273a078a7f02033f8b57845bb98",
       "force": true,
       "type": "addon"
     },
@@ -1024,6 +1054,18 @@
       "type": "addon"
     },
     {
+      "path": "config/minihud/_______.json",
+      "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/minihud/________dim_minecraft_overworld.json",
+      "hash": "91ab74c432fadc78cc85ab32fc3dc6bac46e0abe",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "config/minihud/_________________b__.json",
       "hash": "63334c29f8821e7373ea30d1056de2651da42a93",
       "force": true,
@@ -1163,7 +1205,7 @@
     },
     {
       "path": "config/pistorder.properties",
-      "hash": "0d091c3f2e647b51d779aa6f380df77715dfabe4",
+      "hash": "8550f595dec237f2803ead86fd83c5ecd162108e",
       "force": true,
       "type": "addon"
     },
@@ -1199,7 +1241,7 @@
     },
     {
       "path": "config/roughlyenoughitems/config.json5",
-      "hash": "fdca8eaa489f671c67ada2dc6191df1061b8111d",
+      "hash": "5a38e2abc919c9cc04e66f0bf8020f1378771425",
       "force": true,
       "type": "addon"
     },
@@ -1211,13 +1253,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "592b22ceb4bb7c3b5e56aaa8edeee76064274936",
+      "hash": "b501dcbed1bf88fa529d38278d22858d279bdebe",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "3d790dc22b6180a881823499f0aa124e68a1ac2c",
+      "hash": "80f4ec162ece0e0292c76d7b6fd6456e22bdb0c7",
       "force": true,
       "type": "addon"
     },
@@ -1295,13 +1337,13 @@
     },
     {
       "path": "config/sound_physics_remastered/occlusion.properties",
-      "hash": "fe98d0aa0a122abf137357cd734f3aeedb02cc28",
+      "hash": "4b198862215bb5fa9e408a277c482c989e1aec8d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/sound_physics_remastered/reflectivity.properties",
-      "hash": "04aa045bd487dfcaa0ee4c0137da85204cc4d4c9",
+      "hash": "a925d9f82100449c4ba425bb097b0b5d38110d85",
       "force": true,
       "type": "addon"
     },
@@ -1337,7 +1379,7 @@
     },
     {
       "path": "config/trade_cycling/trade_cycling.properties",
-      "hash": "fe6b095de700102ee148d8b5f12cf5b081a5fd7e",
+      "hash": "97445fd6752c8ae61b37700664876f0081ece51b",
       "force": true,
       "type": "addon"
     },
@@ -1403,13 +1445,13 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "5b2e19039a38c0cbfccf006e3afff03f7defd801",
+      "hash": "ffcbd82c678c28c40f85edb7630c4b5ee8ed87ba",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "38f4014681e96d8dd564e872a70f57fcb1cc43db",
+      "hash": "b232b24b530332e267daf0ad164ceb70f66b62cd",
       "force": true,
       "type": "addon"
     },
@@ -1421,7 +1463,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "878b79dbbf73a3954e48e3dc1e830e912a681471",
+      "hash": "179cfc3302f55c36ec496d0e1023e9d000c0805b",
       "force": true,
       "type": "addon"
     },
@@ -2452,18 +2494,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/panorama/panorama-16869168449.zip",
-      "hash": "e58c14a8afe0abff3047826cc1a19bf60b99dc18",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "mods/panorama/panorama-16869168543.zip",
-      "hash": "f5bde8a8a8ba94f49d7b829a07000995ffa908e8",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/[api] architectury-9.0.7-fabric.jar",
       "hash": "3e7f476efa608867822f6e7acc52940db2829b12",
       "force": true,
@@ -2524,6 +2554,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[api] Iceberg-1.20.1-fabric-1.1.11.jar",
+      "hash": "da5d18d0bd6002c518b3208d1f6c4a7a27301aed",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[api] jamlib-0.6.0+1.20.jar",
       "hash": "a59cf8658067c16ecee1015594454b9814ad97ec",
       "force": true,
@@ -2536,6 +2572,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[api] midnightlib-fabric-1.4.1.jar",
+      "hash": "7301b84a6b0a99988ce898148a9bbd632cfe220b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[api] owo-lib-0.11.0+1.20.jar",
       "hash": "f7405909180eef5d903ebf0cb7ed19007a166247",
       "force": true,
@@ -2544,6 +2586,12 @@
     {
       "path": "mods/[api] polylib-fabric-1200.0.2-build.85.jar",
       "hash": "6f59ff4403318713ea6d7e0051489f96e7e723a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[api] Prism-1.20.1-fabric-1.0.5.jar",
+      "hash": "cd169ef91788fed7e1025e5d2273d61978898e52",
       "force": true,
       "type": "addon"
     },
@@ -2638,6 +2686,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[Optifine功能][动态纹理] animatica-0.6+1.20.jar",
+      "hash": "3bcb19c759f313e69d3f7848b03c48f15167b88d",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[Optifine功能][自定义GUI] optigui-2.1.1.jar",
       "hash": "62b2513fcd9ed6f71f2c2580dfd3282468027c13",
       "force": true,
@@ -2680,6 +2734,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][告示牌信标渲染机制优化] feytweaks-1.20-1.2.7.jar",
+      "hash": "f94195f90cc30a33f4e496ce0070f44711d93f75",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][实体渲染机制优化] entityculling-fabric-1.6.2-mc1.20.jar",
       "hash": "cf43e7a58fb62f75d664cce1b14a6064774e6547",
       "force": true,
@@ -2710,6 +2770,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[优化][方块同步修复] antighost-1.20-fabric0.83.0-1.1.5.jar",
+      "hash": "202078e8dd3be4a34d09e7008875df296266866b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[优化][方块实体优化] enhancedblockentities-0.8.1+1.20.1-Brokkonaut-FrBuild.jar",
       "hash": "a7748c1cd2105fdfe2b5e3b7fd780451671c58b7",
       "force": true,
@@ -2730,6 +2796,12 @@
     {
       "path": "mods/[优化][更好的床] betterbeds-1.3.0-1.19.3.jar",
       "hash": "be8020ab06b679bb33f93a7e9ade8a783985eab0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[优化][树叶渲染优化] cullleaves-fabric-3.1.0.jar",
+      "hash": "17d003ffd19c0d4f7ab2b90a9153e2ba8db737e9",
       "force": true,
       "type": "addon"
     },
@@ -2998,8 +3070,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/[功能][简单村民交易] easiervillagertrading-1.20-fabric0.83.0-1.5.4.jar",
+      "hash": "93283fb514c5307ae1bc1fdbdb7d1666017609cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[功能][简单铁砧] EasyAnvils-v7.0.0-1.20-Fabric.jar",
       "hash": "bf881c73f9bee982d223cac53976a999a7e7f333",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[功能][箱子追踪] chesttracker-1.20.1-1.1.22.jar",
+      "hash": "df5d9d64b0ef1108610fa5e4fa2ce5b121b04dd1",
       "force": true,
       "type": "addon"
     },
@@ -3112,6 +3196,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[美化][传说工具提示] LegendaryTooltips-1.20.1-fabric-1.4.4.jar",
+      "hash": "f63050d83d5c10fc18bf64a61e741d42cd45e20b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[美化][可视化工作台] VisualWorkbench-v7.0.0-1.20-Fabric.jar",
       "hash": "b3dcf2568ceb8a9a72124b5c54b94bb44140eab8",
       "force": true,
@@ -3220,6 +3310,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/[美化][进度牌匾] AdvancementPlaques-1.20.1-fabric-1.4.11.jar",
+      "hash": "43b1210a1441e6579a1c1382f46bf445bb945d98",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/[美化][额外玩家渲染] ExtraPlayerRenderer-1.20.0-2.2.2-alpha.jar",
       "hash": "d391897f1cd6e9577dceeb0858c204fbc6f2de97",
       "force": true,
@@ -3239,7 +3335,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "ada6d7906d7d72980a5f0f10c5df5d37961cea35",
+      "hash": "04322e083d515c4b47a0d9e8279ec463ba09973f",
       "force": true,
       "type": "addon"
     },
@@ -3251,7 +3347,7 @@
     },
     {
       "path": "PCL/Setup.ini",
-      "hash": "aa595a120e4e3ed36aeecac519b29e387d9cf733",
+      "hash": "2bb43dfa2252a822a6104201eefbb72d017ef0f0",
       "force": true,
       "type": "addon"
     },

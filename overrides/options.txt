@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","file/Stay_True_1.20_beta.zip","file/GUI-SimpleStylized_2.1-1.20.zip","file/Frodium Resources","file/Frodium Resources §cE§ex§at§3r§9a"]
+resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","file/Stay_True_1.20_beta.zip","file/GUI-SimpleStylized_2.1-1.20.zip","file/Frodium Resources"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -63,7 +63,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:0
+mipmapLevels:4
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
@@ -121,6 +121,8 @@ key_key.hotbar.9:key.keyboard.9
 key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.0
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
+key_key.antighost.reveal:key.keyboard.g
+key_key.chesttracker.opengui:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -138,6 +140,7 @@ key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_key.ecs.swap:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.x
 key_key.jade.config:key.keyboard.keypad.0
@@ -151,6 +154,7 @@ key_key.trade_cycling.cycle_trades:key.keyboard.v
 key_key.travelersbackpack.inventory:key.keyboard.b
 key_key.travelersbackpack.toggle_tank:key.keyboard.n
 key_key.travelersbackpack.cycle_tool:key.keyboard.z
+key_key.whereisit.finditem:key.keyboard.y
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.backslash
 key_gui.xaero_toggle_slime:key.keyboard.unknown
