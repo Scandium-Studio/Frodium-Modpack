@@ -22,14 +22,14 @@ Frodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听�
 
 Frodium 以实用为本，在[原版*](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium 目前仅支持 Fabric 1.19.3，1.20 升级工作暂缓处理。")基础上拓展了大量丰富游戏体验的功能：
 
-- **全 Masa 支持！** 使用 _Tweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica_ ，使您对的世界了如指掌！
+- **全 Masa 支持！** 使用 Tweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica，使您对的世界了如指掌！
 - **全 Carpet 支持！** 让各种有趣的功能助您一臂之力！
 - **终极优化！** Sodium+Iris 加持，与 20+ 优化模组共同优化您的游戏体验！**🚀FPS+++！🚀**
-- **聊天举报？No！** 使用 _NoChatReports_ 模组，和糟糕的聊天举报机制说拜拜！
-- **更好的鞘翅！** 让 _Elytra Chestplate Swapper_ 和 _Easy Elytra Take Off_ 还您一个良好的飞行体验！
+- **聊天举报？No！** 使用 NoChatReports 模组，和糟糕的聊天举报机制说拜拜！
+- **更好的鞘翅！** 让 Elytra Chestplate Swapper 和 Easy Elytra Take Off 还您一个良好的飞行体验！
 - **有地图，但不多！** 使用 Xaero 的地图系列，默认隐藏了小地图，还您一个干净的游戏界面！
-- [EX] **沉浸式游戏体验！** 在 _Sound Physics_、_Presence Footsteps_ 和 _Ambient Sounds_ 的加持下，您会获得一个优雅、闲适的游戏画卷！
-- [EX] **嘘~这些你还不知道吧？** 使用 _Tips_ 模组，在加载画面中学习 Minecraft 的小知识吧！
+- [EX] **沉浸式游戏体验！** 在 Sound Physics、Presence Footsteps 和 Ambient Sounds 的加持下，您会获得一个优雅、闲适的游戏画卷！
+- [EX] **嘘~这些你还不知道吧？** 使用 Tips 模组，在加载画面中学习 Minecraft 的小知识吧！
 - [EX] **一切尽在掌握！** 多种信息显示模组一起让您度过完美的一天！
 - [EX]（待完善）**Optifine 功能，一个也不能少！** 
 
@@ -48,9 +48,9 @@ Frodium 以实用为本，在[原版*](https://github.com/WForst-Breeze/Frodium-
 
 ## 💾 如何安装
 整合包为 MCBBS 格式，因此支持大部分启动器进行安装！可将整合包拖入启动器窗口自动执行安装操作！
-> 如：**HMCL PCL2 BakaXL MultiMC**
+> 如：**HMCL PCL2 BakaXL**
 
-对于扩展版，请直接在 Release 中下载即可；对于基础版，请在文首单击绿色背景的“Lite”后进行下载
+对于扩展版，请直接在 Release 中下载即可；对于基础版，请在文首单击绿色背景的 “Lite” 后进行下载
 
 ---
 <div align="center">
